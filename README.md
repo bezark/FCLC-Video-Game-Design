@@ -4,14 +4,14 @@
 **Instructor:** John Bezark  
 
 ## **Course Description:**  
-An introductory course exploring the fundamentals of digital game design and decelopment. This course will use Godot 4 as the primary game creation tool. The course covers the basics of game development, coding fundamentals, and design principles. Students will engage in hands-on projects to develop practical skills in both 2D and 3D game design. Students are not expected to have any prior programming or game design experience.
+An introductory course exploring the fundamentals of digital game design and development. This course will use Godot 4 as the primary game creation tool, and it wil cover the basics of game development, coding fundamentals, and game design principles. Students will engage in hands-on projects to develop practical skills in both 2D and 3D game design. Students are not expected to have any prior programming or game design experience.
 
 ## **Course Objectives:**  
 - Understand the principles of game design and development.  
 - Gain proficiency in Godot 4.  
 - Develop basic coding skills relevant to game design.  
-- Complete three major projects: a tabletop game, a 2D game, and a 3D game.
-- Enhance writing and oral presentation skills through game-related assignments. 
+- Complete three major game design projects: a tabletop game, a 2D game, and a 3D game.
+- Enhance writing and oral presentation skills through game-related assignments.
 - Be able to better work in teams
 - Respond to critical feedback constructively
 
@@ -34,8 +34,9 @@ An introductory course exploring the fundamentals of digital game design and dec
 - **Pattern Exploration:** 20%
   - Mid-semester project. A prototype that explores an XR design pattern in depth.
 - **Vision Presentation:** 16%
-- **Capstone Project:** 25% 
-## **Necessary Materials:**  
+- **Capstone Project:** 25%
+
+# **Necessary Materials:**  
 
 
 **Course Outline:**  
@@ -68,6 +69,56 @@ An introductory course exploring the fundamentals of digital game design and dec
 - Attendance, participation, submission guidelines, and academic integrity policies.
 
 Schedule of Topics, Readings, and Assignments (Spring 2024)
+
+16 Weeks
+1. Game design Fundamentals
+  - Syllabus, What is a game?
+3. Introduction to digital games
+
+2. Table Top games
+
+
+4. Playtesting
+
+5. Coding Fundamentals
+
+6. Assets
+7. Sound Design
+8. Lighting
+9. 2D Fundamentals
+10. Advanced 2D
+11. 3D Fundamentals
+12. Advanced 3D
+13. Scenes, Classes, Inheritance
+14. Storytelling
+15. Iteration
+16. Critique
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Week 1
 
     Mon, Jan 9: Course Introduction; Overview of Game Design
@@ -189,4 +240,15 @@ Final Week
 
 - [Dan Shiffman's Github for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
 
-## **Office Hours and Contact Information:**  
+
+## **Instructor Details**
+
+John Bezark (he/they) is a Brooklyn based Game Designer, Creative Technologist, Immersive Experience Designer and Video Artist. They graduated from NYU’s ITP with an MPS in Interactive Telecommunications and  from Fordham University with a BA in Theatrical Directing. John has made everything from Solar Powered Websites to Immersive Game-shows about Systems Thinking.
+
+Nowadays they like to use the Godot Game Engine to create one of a kind immersive and interactive experiences, games and performance art.
+
+When not creating weird things, John also really likes to work in education and he’s passionate about teaching others how to design immersive spaces, how to make games and how to see the world through the lens of Systems Thinking.
+**Email: jbezark@sva.edu**
+[Portfolio](https://johnbezark.info/)
+
+**Office Hours by appointment.**
