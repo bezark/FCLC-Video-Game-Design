@@ -17,50 +17,44 @@ An introductory course exploring the fundamentals of digital game design and dev
 
 # **Assessment**
 
-- **Class Participation:** 15%
-- **Reflections:** 12%
-  - 3 Short Reflections on prompts. Each one is worth 4%.
-- 2D Game
-- 3D Game
-- Process Paper
-- Lab
+The  work of the class consists of
+
+| Assignment   | Description | Points     |
+| :------------- | :------------- |  :------------- |
+| Tabletop Game       | A playable prototypeof a tabletop game | |
+| Tabletop Game Process Paper | Paper which documents design process, execution and playtesting of tabletop game | |
+
+- 3 complete games:
+  - 1 Tabletop game
+  - 1 2D game
+  - 1 2D or 3D Game
+- 3 Process papers papers (one for each game)
+- A design presentation
+- Weekly labs (to build fluency in coding and game development)
+-
 
 
 - **Class Participation:** 15%
-- **Reflections:** 12%
-  - 3 Short Reflections on prompts. Each one is worth 4%.
-- **Labs:** 12%
-  - 3 coding assignments intended to build skills, each worth 4%.
-- **Pattern Exploration:** 20%
-  - Mid-semester project. A prototype that explores an XR design pattern in depth.
-- **Vision Presentation:** 16%
-- **Capstone Project:** 25%
+- **Tabletop Game:**
+- **Tabletop Game Process Paper:**
+- **2D Game:**
+- **2D Game Process Paper:**
+- **3D Game:**
+- **3D Game Process Paper:**
+- **Final Project Pitch:**
+  Informal presentation explaining the group concept for the final project. Slides not necessary. Each group member will be responsible for talking about an aspect of the project
+
+- **Final Project:**
+- **Final Project Process Paper:**
+
+
+
 
 # **Necessary Materials:**  
+- [Godot 4.2.1](https://godotengine.org/) : An [open source](https://en.wikipedia.org/wiki/Open_source) 2D, 3D and XR game engine.
+- [Blender](https://www.blender.org/) : an open source 3D modeling and animation program.
+- [Github Desktop](https://desktop.github.com/): an industry standard [version control](https://en.wikipedia.org/wiki/Version_control) system
 
-
-**Course Outline:**  
-1. **Introduction to Game Design and Godot 4**  
-   - Overview of game design principles.  
-   - Basic tutorials on Godot 4.
-
-2. **Coding Fundamentals for Game Design**  
-   - Introduction to programming concepts in Godot 4.
-
-3. **Project 1: Tabletop Game Design**  
-   - Conceptualizing and prototyping a tabletop game.
-
-4. **2D Game Development in Godot 4**  
-   - Design and develop a complete 2D game.
-
-5. **3D Game Development in Godot 4**  
-   - Techniques and tools for creating 3D games.
-
-6. **Writing and Presentation Skills**  
-   - Assignments focused on critical thinking and effective communication.
-
-7. **Final Capstone Project**  
-   - Developing a 2D or 3D game with an accompanying process paper.
 
 **Assessment and Grading:**  
 - Breakdown of grades based on projects, assignments, presentations, and participation.
@@ -68,141 +62,176 @@ An introductory course exploring the fundamentals of digital game design and dev
 **Policies and Expectations:**  
 - Attendance, participation, submission guidelines, and academic integrity policies.
 
-Schedule of Topics, Readings, and Assignments (Spring 2024)
 
-16 Weeks
-1. Game design Fundamentals
-  - Syllabus, What is a game?
-3. Introduction to digital games
 
-2. Table Top games
+The course is split into 4 distinct modules:
+- Game Design Fundamentals and tabletop design.
+- 2D Game Design
+- 3D Game Design
+- Final Projects
+
+
+
+
+
+
+
+
+---
+# Tabletop
+## Week 1 Fundamentals
+### Thursday 1/18
+- Syllabus Reviews
+- Survey
+- Git init
+- Game Design Fundamentals
+- ASSIGN: Tabletop
+
+## Week 2 Tabletop Genres? Where to begin?
+### Monday 1/23 NO CLASS
+### Thursday 1/25
+- Discussion: Evolution of Games
+- MDA Framework
+- Magic Circle
+
+## Week 3 Iteration and Playtesting
+### Monday 1/30
+- Prototyping Tabletop Games: Balancing and Mechanics
+
+### Thursday 2/1
+- Playtesting
+- DUE: Tabletop Game
+
+---
+# 2D
+## Week 4 - Getting Started in 2D
+### Monday 2/5
+- Git review
+- Getting started with Godot
+- ASSIGN: 2D
+
+### Thursday 2/8
+- Nodes and Scenes
+- DUE: Tabletop process paper
+
+## Week 5
+### Monday 2/12
+- Theory: Aesthetics and Art Styles in Games
+- Assets
+  - Figma
+  - Asperite
+  - Krita
+
+
+### Thursday 2/15
+- Game Genres Deep Dive: Platformers and RPGs
+- Scripts and properties
+- Variables
+- DUE: 2D Game Concept
+- DUE: Lab 1
+
+## Week 6
+### Tuesday 2/20 NO CLASS
+- Lecture: Nodes to know
+  - CharacterBody
+  - Staticbody
+  - Area2D
+  - Collision shape
+  - Button
+  - Sound
+  - Path
+- DUE: Lab 2
+
+### Thursday 2/22
+- Discussion: Narrative Design in 2D Games
+- Lecture:
+  - Control structures and logic
+  - If/Then
+  - && || not
+  - Match
+  - Loops
+    - for
+    - while
+
+## Week 7
+### Monday 2/26
+- UI
+- Methods
+- Signals
+- Functions
+- The Role of Sound and Music in 2D Games
+
+### Thursday 2/29 LEAP YEAR! WOW!
+- Playtesting
+- DUE: 2D Game
+
+---
+# 3D
+## Week 8
+
+
+### Monday 3/4
+- The Evolution of 3D Games: A Historical Perspective
+- Introduction to 3D in Godot
+- ASSIGN: 3D Game (Walking Sim)
+
+### Thursday 3/7
+- Basic 3D Modeling and Texturing
+- DUE: 2D game process paper
+
+## Week 9
+### Monday 3/11
+- Lighting and Camera Techniques in 3D Games
+- DUE: Lab 3
+
+### Thursday 3/14
+- Physics and Interactivity in 3D Environments
+- DUE: 3D Game Concept
+
+## Week 9.5
+### Monday 3/18
+- Effects
+- Advanced 3D Game Mechanics: AI and Pathfinding
+- DUE: Lab 4
+## Spring & Easter Break 3/21 - 4/1
+
+## Week 10
+### Monday 4/2
+
+- Resources
+- Classes
+
+### Thursday 4/4
+- DUE: 3D Game
+
+## Week 11
+### Monday 4/8
+- Looking ahead
+  - Talking through previous projects. Finding interests.
+### Thursday 4/11
+- DUE: 3D Process papers
+
+
+## Week 12
+### Monday 4/15
+- DUE: Final project pitch and concept.
+
+### Thursday 4/18
+- Advanced 3D Game Mechanics: Multiplayer and Networking
+
+## Week 13
+### Monday 4/22
+- Emerging Technologies in Game Design
+### Thursday 4/25
+- Preparing for the Game Industry: Portfolio and Career Paths
+## Final Week
+### Monday 4/29
+- DUE: Final project playtest
+## Finals
+### Thursday 5/2 Reading Day
+### Final
+- DUE: Final Project and Process Paper
 
-
-4. Playtesting
-
-5. Coding Fundamentals
-
-6. Assets
-7. Sound Design
-8. Lighting
-9. 2D Fundamentals
-10. Advanced 2D
-11. 3D Fundamentals
-12. Advanced 3D
-13. Scenes, Classes, Inheritance
-14. Storytelling
-15. Iteration
-16. Critique
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Week 1
-
-    Mon, Jan 9: Course Introduction; Overview of Game Design
-    Thu, Jan 12: Introduction to Godot 4; Basic Installation and Setup
-
-Week 2
-
-    Mon, Jan 16: The Art of Game Design; Basic Principles
-    Thu, Jan 19: Godot 4 Interface and Basic Functions
-
-Week 3
-
-    Mon, Jan 23: Storytelling in Games
-    Thu, Jan 26: Scripting Basics in Godot 4
-
-Week 4
-
-    Mon, Jan 30: Game Genres and Player Experience
-    Thu, Feb 2: Creating 2D Assets in Godot 4
-
-Week 5
-
-    Mon, Feb 6: Tabletop Game Design - Conceptualization
-    Thu, Feb 9: Introduction to Coding: Variables and Control Structures
-
-Week 6
-
-    Mon, Feb 13: Workshop: Developing Tabletop Game Prototypes
-    Thu, Feb 16: Coding in Godot: Functions and Events
-
-Week 7
-
-    Mon, Feb 20: Analysing Successful Games
-    Thu, Feb 23: Building Simple 2D Games in Godot
-
-Week 8
-
-    Mon, Feb 27: Game Mechanics and Dynamics
-    Thu, Mar 2: Advanced 2D Features in Godot
-
-Week 9
-
-    Mon, Mar 6: Critiquing and Improving Game Designs
-    Thu, Mar 9: Introduction to 3D in Godot
-
-Week 10
-
-    Mon, Mar 13: Narrative and World Building in Games
-    Thu, Mar 16: 3D Modeling and Texturing in Godot
-
-Week 11
-
-    Mon, Mar 20: Project Check-in: Tabletop Game Development
-    Thu, Mar 23: 3D Game Physics and Interactions in Godot
-
-Week 12
-
-    Mon, Mar 27: Game Audio and Sound Design
-    Thu, Mar 30: Implementing Sound in Godot
-
-Week 13
-
-    Mon, Apr 3: Game Industry Trends and Future Technologies
-    Thu, Apr 6: Multiplayer and Network Basics in Godot
-
-Week 14
-
-    Mon, Apr 10: Writing for Games; Developing Game Documentation
-    Thu, Apr 13: Polishing and Debugging Games in Godot
-
-Week 15
-
-    Mon, Apr 17: Student Presentations: Game Design Concepts
-    Thu, Apr 20: Preparing for Game Demos; Final Touches
-
-Week 16
-
-    Mon, Apr 24: Final Project Workshop: Peer Reviews and Feedback
-    Thu, Apr 27: Capstone Project Presentations and Demonstrations
-
-Final Week
-
-    Mon, May 1: Capstone Project Process Paper Discussion
-    Thu, May 4: Course Wrap-up; Future Directions in Game Design
 
 # **Resources**
 
@@ -248,7 +277,7 @@ John Bezark (he/they) is a Brooklyn based Game Designer, Creative Technologist, 
 Nowadays they like to use the Godot Game Engine to create one of a kind immersive and interactive experiences, games and performance art.
 
 When not creating weird things, John also really likes to work in education and he’s passionate about teaching others how to design immersive spaces, how to make games and how to see the world through the lens of Systems Thinking.
-**Email: jbezark@sva.edu**
+**Email: jbezark@fordham.edu**
 [Portfolio](https://johnbezark.info/)
 
 **Office Hours by appointment.**
