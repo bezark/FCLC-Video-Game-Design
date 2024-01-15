@@ -17,12 +17,26 @@ An introductory course exploring the fundamentals of digital game design and dev
 
 # **Assessment**
 
-The  work of the class consists of
+The  work of the class consists of the following:
 
-| Assignment   | Description | Points     |
-| :------------- | :------------- |  :------------- |
-| Tabletop Game       | A playable prototypeof a tabletop game | |
-| Tabletop Game Process Paper | Paper which documents design process, execution and playtesting of tabletop game | |
+| Assignment                  | Description                                                                 | Points |
+|:----------------------------|:----------------------------------------------------------------------------|:-------|
+| Class Participation         | Actively perticipate in class discussions                                   | 8      |
+| Lab 1-4                     | Four short coding assignments designed to build proficiency. 3 points each. | 12     |
+| Tabletop Game               | A playable prototypeof a tabletop game                                      | 5      |
+| Tabletop Game Process Paper | Paper which documents process, execution and playtesting of tabletop game   | 5      |
+| 2D Game                     | A playable prototype of a 2D game                                           | 10     |
+| 2D Game Process Paper       | Paper which documents process, execution and playtesting of 2D game         | 10     |
+| 3D Game                     | A playable prototype of a 3D game                                           | 10     |
+| 3D Game Process Paper       | Paper which documents process, execution and playtesting of 3D game         | 10     |
+| Capstone Game               | A polished game. Can be an evolution of the 2D or 3D game.                  | 15     |
+| 3D Game Process Paper       | Paper which documents process, execution and playtesting of Capstone game.  | 15     |
+
+
+A note on workload:
+Yes, this sounds like a lot of work! However please note that the final projcet is an evolution of one of the existing projects. Additionally, all the process papers are co-written by the group and are meant to help with designing the game itself. There is very little research or reading in the course.
+
+This is a new course, so if the workload seems unbalanced or overwhelming let me know and the scope can be adjusted.
 
 - 3 complete games:
   - 1 Tabletop game
@@ -56,29 +70,26 @@ The  work of the class consists of
 - [Github Desktop](https://desktop.github.com/): an industry standard [version control](https://en.wikipedia.org/wiki/Version_control) system
 
 
-**Assessment and Grading:**  
-- Breakdown of grades based on projects, assignments, presentations, and participation.
 
 **Policies and Expectations:**  
 - Attendance, participation, submission guidelines, and academic integrity policies.
 
 
 
-The course is split into 4 distinct modules:
-- Game Design Fundamentals and tabletop design.
-- 2D Game Design
-- 3D Game Design
-- Final Projects
 
 
 
 
 
 
+# **Course Outline**
 
+The course is split into 4 distinct modules each with a distinct project:
+- Week 1-3: Game Design Fundamentals and tabletop design
+- Week 2-7: 2D Game Design
+- Week 8-10: 3D Game Design
+- Week 10-14: Final Project Development
 
----
-# Tabletop
 ## Week 1 Fundamentals
 ### Thursday 1/18
 - Syllabus Reviews
@@ -102,8 +113,7 @@ The course is split into 4 distinct modules:
 - Playtesting
 - DUE: Tabletop Game
 
----
-# 2D
+
 ## Week 4 - Getting Started in 2D
 ### Monday 2/5
 - Git review
