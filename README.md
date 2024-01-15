@@ -36,52 +36,6 @@ The  work of the class consists of the following:
 A note on workload:
 Yes, this sounds like a lot of work! However please note that the final projcet is an evolution of one of the existing projects. Additionally, all the process papers are co-written by the group and are meant to help with designing the game itself. There is very little research or reading in the course.
 
-This is a new course, so if the workload seems unbalanced or overwhelming let me know and the scope can be adjusted.
-
-- 3 complete games:
-  - 1 Tabletop game
-  - 1 2D game
-  - 1 2D or 3D Game
-- 3 Process papers papers (one for each game)
-- A design presentation
-- Weekly labs (to build fluency in coding and game development)
--
-
-
-- **Class Participation:** 15%
-- **Tabletop Game:**
-- **Tabletop Game Process Paper:**
-- **2D Game:**
-- **2D Game Process Paper:**
-- **3D Game:**
-- **3D Game Process Paper:**
-- **Final Project Pitch:**
-  Informal presentation explaining the group concept for the final project. Slides not necessary. Each group member will be responsible for talking about an aspect of the project
-
-- **Final Project:**
-- **Final Project Process Paper:**
-
-
-
-
-# **Necessary Materials:**  
-- [Godot 4.2.1](https://godotengine.org/) : An [open source](https://en.wikipedia.org/wiki/Open_source) 2D, 3D and XR game engine.
-- [Blender](https://www.blender.org/) : an open source 3D modeling and animation program.
-- [Github Desktop](https://desktop.github.com/): an industry standard [version control](https://en.wikipedia.org/wiki/Version_control) system
-
-
-
-**Policies and Expectations:**  
-- Attendance, participation, submission guidelines, and academic integrity policies.
-
-
-
-
-
-
-
-
-
 # **Course Outline**
 
 The course is split into 4 distinct modules each with a distinct project:
@@ -224,7 +178,8 @@ The course is split into 4 distinct modules each with a distinct project:
 
 ## Week 12
 ### Monday 4/15
-- DUE: Final project pitch and concept.
+- DUE: Final project pitch and concept. Informal presentation explaining the group concept for the final project. Slides not necessary. Each group member will be responsible for talking about an aspect of the project
+
 
 ### Thursday 4/18
 - Advanced 3D Game Mechanics: Multiplayer and Networking
@@ -243,7 +198,17 @@ The course is split into 4 distinct modules each with a distinct project:
 - DUE: Final Project and Process Paper
 
 
-# **Resources**
+# **Policies and Expectations:**  
+- Attendance, participation, submission guidelines, and academic integrity policies.
+
+
+
+
+# **Necessary Materials:**  
+- [Godot 4.2.1](https://godotengine.org/) : An [open source](https://en.wikipedia.org/wiki/Open_source) 2D, 3D and XR game engine.
+- [Blender](https://www.blender.org/) : an open source 3D modeling and animation program.
+- [Github Desktop](https://desktop.github.com/): an industry standard [version control](https://en.wikipedia.org/wiki/Version_control) system
+
 
 ## Tools Used
 
