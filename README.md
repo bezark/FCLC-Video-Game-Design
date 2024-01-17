@@ -19,29 +19,30 @@ An introductory course exploring the fundamentals of digital game design and dev
 
 The  work of the class consists of the following:
 
-| Assignment                  | Description                                                                 | Points |
-|:----------------------------|:----------------------------------------------------------------------------|:-------|
-| Class Participation         | Actively perticipate in class discussions                                   | 8      |
-| Lab 1-4                     | Four short coding assignments designed to build proficiency. 3 points each. | 12     |
-| Tabletop Game               | A playable prototypeof a tabletop game                                      | 5      |
-| Tabletop Game Process Paper | Paper which documents process, execution and playtesting of tabletop game   | 5      |
-| 2D Game                     | A playable prototype of a 2D game                                           | 10     |
-| 2D Game Process Paper       | Paper which documents process, execution and playtesting of 2D game         | 10     |
-| 3D Game                     | A playable prototype of a 3D game                                           | 10     |
-| 3D Game Process Paper       | Paper which documents process, execution and playtesting of 3D game         | 10     |
-| Capstone Game               | A polished game. Can be an evolution of the 2D or 3D game.                  | 15     |
-| 3D Game Process Paper       | Paper which documents process, execution and playtesting of Capstone game.  | 15     |
+| Assignment                  | Description                                                                 | Due Date                  | Points |
+|:----------------------------|:----------------------------------------------------------------------------|:--------------------------|--------|
+| Class Participation         | Actively participate in class discussions                                   |                           | 16     |
+| Lab 1-4                     | Four short coding assignments designed to build proficiency. 6 points each. | 2/15,  2/20,   3/11, 3/18 | 24     |
+| Tabletop Game               | A playable prototype of a tabletop game                                     | 2/1                       | 10     |
+| Tabletop Game Process Paper | Paper which documents process, execution and playtesting of tabletop game   | 2/8                       | 10     |
+| 2D Game                     | A playable prototype of a 2D game                                           | 2/29                      | 20     |
+| 2D Game Process Paper       | Paper which documents process, execution and playtesting of 2D game         | 3/7                       | 20     |
+| 3D Game                     | A playable prototype of a 3D game                                           | 4/4                       | 20     |
+| 3D Game Process Paper       | Paper which documents process, execution and playtesting of 3D game         | 4/11                      | 20     |
+| Capstone Game               | A polished game. Can be an evolution of the 2D or 3D game.                  | Final                     | 30     |
+| 3D Game Process Paper       | Paper which documents process, execution and playtesting of Capstone game.  | Final                     | 30     |
+| Total Points Possible       |                                                                             |                           | 200    |
 
 
 A note on workload:
-Yes, this sounds like a lot of work! However please note that the final projcet is an evolution of one of the existing projects. Additionally, all the process papers are co-written by the group and are meant to help with designing the game itself. There is very little research or reading in the course.
+  Yes, this sounds like a lot of work! However please note that the final project is an **evolution** of one of the existing projects. Additionally, all the process papers are co-written by the group and are meant to help with designing the game itself. There is very little research or reading in the course. This is a new course, so if this workload is intimidating, let me know and it can potentially be adjusted!
 
 # **Course Outline**
 
 The course is split into 4 distinct modules each with a distinct project:
 - Week 1-3: Game Design Fundamentals and tabletop design
-- Week 2-7: 2D Game Design
-- Week 8-10: 3D Game Design
+- Week 2-6: 2D Game Design
+- Week 7-10: 3D Game Design
 - Week 10-14: Final Project Development
 
 ## Week 1 Fundamentals
