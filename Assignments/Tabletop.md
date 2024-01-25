@@ -1,6 +1,6 @@
 ### Assignment Prompt: Tabletop Group Project
 
-DUE:
+DUE: 2/1
 
 #### Objective:
 Design and create a tabletop game that can be played within the classroom environment. The game should be engaging, clear in its objectives and rules, and designed to be completed within a 15-minute timeframe.
