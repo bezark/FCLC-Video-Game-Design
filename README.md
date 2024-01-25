@@ -47,6 +47,7 @@ The course is split into 4 distinct modules each with a distinct project:
 
 ## Week 1 Fundamentals
 ### Thursday 1/18
+- [CLASS NOTES](https://github.com/bezark/FCLC-Video-Game-Design/tree/main/Sessions/Week%201)
 - Syllabus Reviews
 - Survey
 - Git init
@@ -56,6 +57,7 @@ The course is split into 4 distinct modules each with a distinct project:
 ## Week 2 Tabletop Genres? Where to begin?
 ### Monday 1/23 NO CLASS
 ### Thursday 1/25
+  - [CLASS NOTES](https://github.com/bezark/FCLC-Video-Game-Design/tree/main/Sessions/Week%202)
   - Playtesting
   - Prototyping Tabletop Games: Balancing and Mechanics
   - Reading: MDA and Magic Circle
