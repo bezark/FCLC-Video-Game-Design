@@ -7,7 +7,7 @@
 
 ## Homework
 - Keep working on Tabletop Projects
-- Read [MDA Framework]() and prepare to discuss on Monday.
+- Read [MDA Framework](https://github.com/bezark/FCLC-Video-Game-Design/blob/main/Readings/MDA.pdf) and prepare to discuss on Monday.
 
 
 ### Monday 1/30
