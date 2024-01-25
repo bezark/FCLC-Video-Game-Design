@@ -26,8 +26,8 @@ The  work of the class consists of the following:
 | Lab 1-6                            | 6 short coding assignments designed to build proficiency. 6 points each.                          | 2/15,  2/22,  2/29, 3/7, 4/4 and 4/11 | 36     |
 | Tabletop Game                      | A playable prototype of a tabletop game                                                           | 2/1                                   | 10     |
 | Tabletop Game Process Paper        | Paper which documents process, execution and playtesting of tabletop game                         | 2/8                                   | 10     |
-| 2D Game                            | A playable prototype of a 2D game                                                                 | 2/29                                  | 20     |
-| 2D Game Process Paper              | Paper which documents process, execution and playtesting of 2D game                               | 3/7                                   | 20     |
+| 2D Game                            | A playable prototype of a 2D game                                                                 | 3/14                                  | 20     |
+| 2D Game Process Paper              | Paper which documents process, execution and playtesting of 2D game                               | Concept section due on 2/29. Final version due 3/21                                   | 20     |
 | Capstone Game Concept Presentation | 15 Minute Group Presentation documenting concepts, inspirations and intentions for capstone game. | 4/15 or 4/18                          | 20     |
 | Capstone Game                      | A polished game. Can be an evolution of the 2D or 3D game.                                        | Final                                 | 30     |
 | Capstone Game Process Paper        | Paper which documents process, execution and playtesting of Capstone game.                        | Final                                 | 30     |
@@ -56,16 +56,18 @@ The course is split into 4 distinct modules each with a distinct project:
 ## Week 2 Tabletop Genres? Where to begin?
 ### Monday 1/23 NO CLASS
 ### Thursday 1/25
-- Discussion: Evolution of Games
-- MDA Framework
-- Magic Circle
+  - Playtesting
+  - Prototyping Tabletop Games: Balancing and Mechanics
+  - Reading: MDA and Magic Circle
 
 ## Week 3 Iteration and Playtesting
 ### Monday 1/30
-- Prototyping Tabletop Games: Balancing and Mechanics
+- MDA Framework
+- Magic Circle
 
 ### Thursday 2/1
 - Playtesting
+- Discussion: Evolution of Games
 - DUE: Tabletop Game
 
 
