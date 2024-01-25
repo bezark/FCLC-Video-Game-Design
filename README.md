@@ -19,19 +19,19 @@ An introductory course exploring the fundamentals of digital game design and dev
 
 The  work of the class consists of the following:
 
-| Assignment                  | Description                                                                 | Due Date                  | Points |
-|:----------------------------|:----------------------------------------------------------------------------|:--------------------------|--------|
-| Class Participation         | Actively participate in class discussions                                   |                           | 16     |
-| Lab 1-4                     | Four short coding assignments designed to build proficiency. 6 points each. | 2/15,  2/20,   3/11, 3/18 | 24     |
-| Tabletop Game               | A playable prototype of a tabletop game                                     | 2/1                       | 10     |
-| Tabletop Game Process Paper | Paper which documents process, execution and playtesting of tabletop game   | 2/8                       | 10     |
-| 2D Game                     | A playable prototype of a 2D game                                           | 2/29                      | 20     |
-| 2D Game Process Paper       | Paper which documents process, execution and playtesting of 2D game         | 3/7                       | 20     |
-| 3D Game                     | A playable prototype of a 3D game                                           | 4/4                       | 20     |
-| 3D Game Process Paper       | Paper which documents process, execution and playtesting of 3D game         | 4/11                      | 20     |
-| Capstone Game               | A polished game. Can be an evolution of the 2D or 3D game.                  | Final                     | 30     |
-| 3D Game Process Paper       | Paper which documents process, execution and playtesting of Capstone game.  | Final                     | 30     |
-| Total Points Possible       |                                                                             |                           | 200    |
+| Assignment                         | Description                                                                                       | Due Date                              | Points |
+|:-----------------------------------|:--------------------------------------------------------------------------------------------------|:--------------------------------------|--------|
+| Attendance                         | 2 Excused absences.                                                                               |                                       | 10     |
+| Class Participation                | Actively participate in class discussions                                                         |                                       | 14     |
+| Lab 1-6                            | 6 short coding assignments designed to build proficiency. 6 points each.                          | 2/15,  2/22,  2/29, 3/7, 4/4 and 4/11 | 36     |
+| Tabletop Game                      | A playable prototype of a tabletop game                                                           | 2/1                                   | 10     |
+| Tabletop Game Process Paper        | Paper which documents process, execution and playtesting of tabletop game                         | 2/8                                   | 10     |
+| 2D Game                            | A playable prototype of a 2D game                                                                 | 2/29                                  | 20     |
+| 2D Game Process Paper              | Paper which documents process, execution and playtesting of 2D game                               | 3/7                                   | 20     |
+| Capstone Game Concept Presentation | 15 Minute Group Presentation documenting concepts, inspirations and intentions for capstone game. | 4/15 or 4/18                          | 20     |
+| Capstone Game                      | A polished game. Can be an evolution of the 2D or 3D game.                                        | Final                                 | 30     |
+| Capstone Game Process Paper        | Paper which documents process, execution and playtesting of Capstone game.                        | Final                                 | 30     |
+| Total Points Possible              |                                                                                                   |                                       | 200    |
 
 
 A note on workload:
