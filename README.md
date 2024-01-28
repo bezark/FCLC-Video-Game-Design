@@ -64,8 +64,10 @@ The course is split into 4 distinct modules each with a distinct project:
 
 ## Week 3 Iteration and Playtesting
 ### Monday 1/30
+- [CLASS NOTES](https://github.com/bezark/FCLC-Video-Game-Design/blob/main/Sessions/Week%203/README.md)
 - MDA Framework
-- Magic Circle
+- Systems, Loops and Balance
+- Group work
 
 ### Thursday 2/1
 - Playtesting
@@ -80,6 +82,7 @@ The course is split into 4 distinct modules each with a distinct project:
 - ASSIGN: 2D
 
 ### Thursday 2/8
+- Magic Circle
 - Nodes and Scenes
 - DUE: Tabletop process paper
 
