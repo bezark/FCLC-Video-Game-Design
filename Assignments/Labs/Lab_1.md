@@ -15,5 +15,3 @@ Upload that project to github and submit the link to the repository page on blac
 - 1 point for using a sprite
 - 2 points for having nested scenes (at least 2 objects that are scene instances. For example, 2 trees in a forest)
 - 1 point for submitting it via github
-
-You can find the [sample repository here](https://github.com/jbezark/IntroGodotGithubRepo).
