@@ -47,7 +47,7 @@ The course is split into 4 distinct modules each with a distinct project:
 
 ## Week 1 Fundamentals
 ### Thursday 1/18
-- [CLASS NOTES](https://github.com/bezark/FCLC-Video-Game-Design/tree/main/Sessions/ClassClass %201)
+- [CLASS NOTES](https://github.com/bezark/FCLC-Video-Game-Design/tree/main/Sessions/Week%201)
 - Syllabus Reviews
 - Survey
 - Git init
@@ -57,20 +57,19 @@ The course is split into 4 distinct modules each with a distinct project:
 ## Week 2 Tabletop Genres? Where to begin?
 ### Monday 1/23 NO CLASS
 ### Thursday 1/25
-  - [CLASS NOTES](https://github.com/bezark/FCLC-Video-Game-Design/tree/main/Sessions/Class%202)
+  - [CLASS NOTES](https://github.com/bezark/FCLC-Video-Game-Design/tree/main/Sessions/Week%202)
   - Playtesting
   - Prototyping Tabletop Games: Balancing and Mechanics
   - Reading: MDA and Magic Circle
 
 ## Week 3 Iteration and Playtesting
 ### Monday 1/30
-- [CLASS NOTES](https://github.com/bezark/FCLC-Video-Game-Design/blob/main/Sessions/Class%203/README.md)
+- [CLASS NOTES](https://github.com/bezark/FCLC-Video-Game-Design/blob/main/Sessions/Week%203/README.md)
 - MDA Framework
 - Systems, Loops and Balance
 - Group work
 
 ### Thursday 2/1
-- [CLASS NOTES](https://github.com/bezark/FCLC-Video-Game-Design/blob/main/Sessions/Class%204/README.md)
 - Playtesting
 - DUE: Tabletop Game
 
@@ -78,16 +77,15 @@ The course is split into 4 distinct modules each with a distinct project:
 ## Week 4 - Getting Started in 2D
 ### Monday 2/5
 - Playtesting
-- Getting started with [Github Desktop](https://desktop.github.com/) and [Godot 4.2.1](https://godotengine.org/)
-
-
+- Git review
 
 ### Thursday 2/8
+- Getting started with Godot
 - Nodes and Scenes
-- ASSIGN: 2D Game
-
+- **Homework: [Lab 1](/Assignments/Labs/Lab_1.md)**
 ## Week 5
 ### Monday 2/12
+- ASSIGN: 2D Game
 - Theory: Aesthetics and Art Styles in Games
 - Assets
   - Figma
