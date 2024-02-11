@@ -23,10 +23,10 @@ The  work of the class consists of the following:
 |:-----------------------------------|:--------------------------------------------------------------------------------------------------|:----------------------------------------------------|--------|
 | Attendance                         | 2 Excused absences.                                                                               |                                                     | 10     |
 | Class Participation                | Actively participate in class discussions                                                         |                                                     | 14     |
-| Tabletop Game                      | A playable prototype of a tabletop game                                                           | 2/1                                                 | 10     |
-| Tabletop Game Process Paper        | Paper which documents process, execution and playtesting of tabletop game                         | 2/12                                                | 10     |
+| [Tabletop Game](/Assignments/Tabletop.md)                      | A playable prototype of a tabletop game                                                           | 2/1                                                 | 10     |
+| [Tabletop Game Process Paper](/Assignments/TableTop_Process_Paper.md)        | Paper which documents process, execution and playtesting of tabletop game                         | 2/12                                                | 10     |
 | Lab 1-6                            | 6 short coding assignments designed to build proficiency. 6 points each.                          | 2/15,  2/22,  2/29, 3/7, 4/4 and 4/11               | 36     |
-| 2D Game                            | A playable prototype of a 2D game                                                                 | 3/14                                                | 20     |
+| [2D Game](/Assignments/2D/2DGame.md)                            | A playable prototype of a 2D game                                                                 | 3/14                                                | 20     |
 | 2D Game Process Paper              | Paper which documents process, execution and playtesting of 2D game                               | Concept section due on 2/29. Final version due 3/21 | 20     |
 | Capstone Game Concept Presentation | 15 Minute Group Presentation documenting concepts, inspirations and intentions for capstone game. | 4/15 or 4/18                                        | 20     |
 | Capstone Game                      | A polished game. Can be an evolution of the 2D or 3D game.                                        | Final                                               | 30     |
@@ -87,7 +87,7 @@ The course is split into 4 distinct modules each with a distinct project:
 ### Monday 2/12
 - Getting started with Godot
 - Nodes and Scenes
-- **Homework: [2D Game](/Assignments/2DGame.md)**
+- **Homework: [2D Game](/Assignments/2D/2DGame.md)**
 - DUE: Tabletop process paper
 
 
