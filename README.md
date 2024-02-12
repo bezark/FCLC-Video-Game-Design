@@ -23,10 +23,10 @@ The  work of the class consists of the following:
 |:-----------------------------------|:--------------------------------------------------------------------------------------------------|:----------------------------------------------------|--------|
 | Attendance                         | 2 Excused absences.                                                                               |                                                     | 10     |
 | Class Participation                | Actively participate in class discussions                                                         |                                                     | 14     |
-| Tabletop Game                      | A playable prototype of a tabletop game                                                           | 2/1                                                 | 10     |
-| Tabletop Game Process Paper        | Paper which documents process, execution and playtesting of tabletop game                         | 2/12                                                | 10     |
+| [Tabletop Game](/Assignments/Tabletop.md)                      | A playable prototype of a tabletop game                                                           | 2/1                                                 | 10     |
+| [Tabletop Game Process Paper](/Assignments/TableTop_Process_Paper.md)        | Paper which documents process, execution and playtesting of tabletop game                         | 2/12                                                | 10     |
 | Lab 1-6                            | 6 short coding assignments designed to build proficiency. 6 points each.                          | 2/15,  2/22,  2/29, 3/7, 4/4 and 4/11               | 36     |
-| 2D Game                            | A playable prototype of a 2D game                                                                 | 3/14                                                | 20     |
+| [2D Game](/Assignments/2D/2DGame.md)                            | A playable prototype of a 2D game                                                                 | 3/14                                                | 20     |
 | 2D Game Process Paper              | Paper which documents process, execution and playtesting of 2D game                               | Concept section due on 2/29. Final version due 3/21 | 20     |
 | Capstone Game Concept Presentation | 15 Minute Group Presentation documenting concepts, inspirations and intentions for capstone game. | 4/15 or 4/18                                        | 20     |
 | Capstone Game                      | A polished game. Can be an evolution of the 2D or 3D game.                                        | Final                                               | 30     |
@@ -47,7 +47,7 @@ The course is split into 4 distinct modules each with a distinct project:
 
 ## Week 1 Fundamentals
 ### Thursday 1/18
-- [CLASS NOTES](https://github.com/bezark/FCLC-Video-Game-Design/tree/main/Sessions/Week%201)
+- [CLASS NOTES](/Sessions/Class_1)
 - Syllabus Reviews
 - Survey
 - Git init
@@ -57,14 +57,14 @@ The course is split into 4 distinct modules each with a distinct project:
 ## Week 2 Tabletop Genres? Where to begin?
 ### Monday 1/23 NO CLASS
 ### Thursday 1/25
-  - [CLASS NOTES](https://github.com/bezark/FCLC-Video-Game-Design/tree/main/Sessions/Week%202)
+  - [CLASS NOTES](/Sessions/Class_2)
   - Playtesting
   - Prototyping Tabletop Games: Balancing and Mechanics
   - Reading: MDA and Magic Circle
 
 ## Week 3 Iteration and Playtesting
 ### Monday 1/30
-- [CLASS NOTES](https://github.com/bezark/FCLC-Video-Game-Design/blob/main/Sessions/Week%203/README.md)
+- [CLASS NOTES](/Sessions/Class_3)
 - MDA Framework
 - Systems, Loops and Balance
 - Group work
@@ -81,22 +81,24 @@ The course is split into 4 distinct modules each with a distinct project:
 
 ### Thursday 2/8
 - Getting started with Godot
-- Nodes and Scenes
 - **Homework: [Lab 1](/Assignments/Labs/Lab_1.md)**
+
 ## Week 5
 ### Monday 2/12
-- ASSIGN: 2D Game
-- Theory: Aesthetics and Art Styles in Games
-- Assets
-  - Figma
-  - Asperite
-  - Krita
+- Getting started with Godot
+- Nodes and Scenes
+- **Homework: [2D Game](/Assignments/2D/2DGame.md)**
 - DUE: Tabletop process paper
 
 
+---
+
+
 ### Thursday 2/15
-- Magic Circle
-- Game Genres Deep Dive: Platformers and RPGs
+- Assets
+- Figma
+- Asperite
+- Krita
 - Scripts and properties
 - Variables
 - DUE: Lab 1
@@ -111,10 +113,9 @@ The course is split into 4 distinct modules each with a distinct project:
   - Button
   - Sound
   - Path
-- DUE: Lab 2
 
 ### Thursday 2/22
-- Discussion: Narrative Design in 2D Games
+- Dspliscussion: Narrative Design in 2D Games
 - Lecture:
   - Control structures and logic
   - If/Then
@@ -123,6 +124,7 @@ The course is split into 4 distinct modules each with a distinct project:
   - Loops
     - for
     - while
+  - DUE: Lab 2
 
 ## Week 7
 ### Monday 2/26
@@ -133,8 +135,10 @@ The course is split into 4 distinct modules each with a distinct project:
 - The Role of Sound and Music in 2D Games
 
 ### Thursday 2/29 LEAP YEAR! WOW!
+- Magic Circle
 - Playtesting
 - DUE: 2D Game Concept
+- DUE: Lab 3
 
 ---
 # 3D
@@ -153,7 +157,6 @@ The course is split into 4 distinct modules each with a distinct project:
 ## Week 9
 ### Monday 3/11
 - Lighting and Camera Techniques in 3D Games
-- DUE: Lab 3
 
 ### Thursday 3/14
 - Physics and Interactivity in 3D Environments
