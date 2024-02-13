@@ -1,4 +1,4 @@
-111### Assignment Prompt: Tabletop Group Project
+### Assignment Prompt: Tabletop Group Project
 
 DUE: 2/1
 
