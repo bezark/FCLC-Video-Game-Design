@@ -19,19 +19,19 @@ An introductory course exploring the fundamentals of digital game design and dev
 
 The  work of the class consists of the following:
 
-| Assignment                         | Description                                                                                       | Due Date                                            | Points |
-|:-----------------------------------|:--------------------------------------------------------------------------------------------------|:----------------------------------------------------|--------|
-| Attendance                         | 2 Excused absences.                                                                               |                                                     | 10     |
-| Class Participation                | Actively participate in class discussions                                                         |                                                     | 14     |
-| [Tabletop Game](/Assignments/Tabletop.md)                      | A playable prototype of a tabletop game                                                           | 2/1                                                 | 10     |
-| [Tabletop Game Process Paper](/Assignments/TableTop_Process_Paper.md)        | Paper which documents process, execution and playtesting of tabletop game                         | 2/12                                                | 10     |
-| Lab 1-6                            | 6 short coding assignments designed to build proficiency. 6 points each.                          | 2/15,  2/22,  2/29, 3/7, 4/4 and 4/11               | 36     |
-| [2D Game](/Assignments/2D/2DGame.md)                            | A playable prototype of a 2D game                                                                 | 3/14                                                | 20     |
-| 2D Game Process Paper              | Paper which documents process, execution and playtesting of 2D game                               | Concept section due on 2/29. Final version due 3/21 | 20     |
-| Capstone Game Concept Presentation | 15 Minute Group Presentation documenting concepts, inspirations and intentions for capstone game. | 4/15 or 4/18                                        | 20     |
-| Capstone Game                      | A polished game. Can be an evolution of the 2D or 3D game.                                        | Final                                               | 30     |
-| Capstone Game Process Paper        | Paper which documents process, execution and playtesting of Capstone game.                        | Final                                               | 30     |
-| Total Points Possible              |                                                                                                   |                                                     | 200    |
+| Assignment                                                            | Description                                                                                       | Due Date                                            | Points |
+|:----------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:----------------------------------------------------|--------|
+| Attendance                                                            | 2 Excused absences.                                                                               |                                                     | 10     |
+| Class Participation                                                   | Actively participate in class discussions                                                         |                                                     | 14     |
+| [Tabletop Game](/Assignments/Tabletop.md)                             | A playable prototype of a tabletop game                                                           | 2/1                                                 | 10     |
+| [Tabletop Game Process Paper](/Assignments/TableTop_Process_Paper.md) | Paper which documents process, execution and playtesting of tabletop game                         | 2/12                                                | 10     |
+| Lab 1-6                                                               | 6 short coding assignments designed to build proficiency. 6 points each.                          | 2/15,  2/22,  2/29, 3/7, 4/4 and 4/11               | 36     |
+| [2D Game](/Assignments/2D/2DGame.md)                                  | A playable prototype of a 2D game                                                                 | 3/14                                                | 20     |
+| 2D Game Process Paper                                                 | Paper which documents process, execution and playtesting of 2D game                               | Concept section due on 2/29. Final version due 3/21 | 20     |
+| Capstone Game Concept Presentation                                    | 15 Minute Group Presentation documenting concepts, inspirations and intentions for capstone game. | 4/15 or 4/18                                        | 20     |
+| Capstone Game                                                         | A polished game. Can be an evolution of the 2D or 3D game.                                        | Final                                               | 30     |
+| Capstone Game Process Paper                                           | Paper which documents process, execution and playtesting of Capstone game.                        | Final                                               | 30     |
+| Total Points Possible                                                 |                                                                                                   |                                                     | 200    |
 
 
 A note on workload:
@@ -95,13 +95,13 @@ The course is split into 4 distinct modules each with a distinct project:
 
 
 ### Thursday 2/15
-- Assets
-- Figma
-- Asperite
-- Krita
+- Coding Fundamentals
 - Scripts and properties
 - Variables
+- Input
+- If... Then
 - DUE: Lab 1
+- **Homework: [Lab 2](/Assignments/Labs/Lab_2.md)**
 
 ## Week 6
 ### Tuesday 2/20 NO CLASS
@@ -116,6 +116,10 @@ The course is split into 4 distinct modules each with a distinct project:
 
 ### Thursday 2/22
 - Dspliscussion: Narrative Design in 2D Games
+- Assets
+  - Figma
+  - Asperite
+  - Krita
 - Lecture:
   - Control structures and logic
   - If/Then
@@ -124,7 +128,6 @@ The course is split into 4 distinct modules each with a distinct project:
   - Loops
     - for
     - while
-  - DUE: Lab 2
 
 ## Week 7
 ### Monday 2/26
@@ -133,6 +136,7 @@ The course is split into 4 distinct modules each with a distinct project:
 - Signals
 - Functions
 - The Role of Sound and Music in 2D Games
+- DUE: Lab 2
 
 ### Thursday 2/29 LEAP YEAR! WOW!
 - Magic Circle
