@@ -14,5 +14,5 @@ Upload that project to github and submit the link to the repository page here on
 ## Grading
 - 1 Point for submitting anything on Github
 - 1 Point for having an exported variable
-- 1 point for a node with conditional logic
-- 1 point for a node that responds to user input (key press, mouse press, mouse move etc.)
+- 2 point for a node with conditional logic
+- 2 point for a node that responds to user input (key press, mouse press, mouse move etc.)
