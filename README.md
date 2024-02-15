@@ -95,16 +95,17 @@ The course is split into 4 distinct modules each with a distinct project:
 
 
 ### Thursday 2/15
-- Coding Fundamentals
-- Scripts and properties
-- Variables
-- Input
-- If... Then
+- [In Class Project](Sessions/Coding_Fundamentals)
+- [Coding Fundamentals](Resources/Coding_Fundamentals.md)
+  - Scripts and properties
+  - Variables
 - DUE: Lab 1
 - **Homework: [Lab 2](/Assignments/Labs/Lab_2.md)**
 
 ## Week 6
 ### Tuesday 2/20 NO CLASS
+- Input
+- If... Then
 - Lecture: Nodes to know
   - CharacterBody
   - Staticbody
