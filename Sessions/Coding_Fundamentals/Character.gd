@@ -15,3 +15,4 @@ func _process(delta):
 	print(x)
 	position.x = position.x + 5
 	position.y = position.y + 5
+	
