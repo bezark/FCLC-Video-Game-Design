@@ -6,8 +6,8 @@ Create a 2D godot project that has:
   - A godot project in a github repository (can be the same repository from last week)
   - A node with a script that:
     - Has an exported variable
-    - Uses conditional ligic (`if`, `else`, or `elif`)
-    - Responds ro user input with `Input`
+    - Uses conditional logic (`if`, `else`, or `elif`)
+    - Responds to user input with `Input`
 
 Upload that project to github and submit the link to the repository page here on blackboard
 
