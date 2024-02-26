@@ -104,69 +104,55 @@ The course is split into 4 distinct modules each with a distinct project:
 
 ## Week 6
 ### Tuesday 2/20 NO CLASS
-- Input
-- If... Then
-- Lecture: Nodes to know
-  - CharacterBody
-  - Staticbody
-  - Area2D
-  - Collision shape
-  - Button
-  - Sound
-  - Path
+- [Conditionals, Input](https://www.youtube.com/watch?v=PyADIUsLobs)
 
 ### Thursday 2/22
-- Dspliscussion: Narrative Design in 2D Games
-- Assets
-  - Figma
-  - Asperite
-  - Krita
-- Lecture:
-  - Control structures and logic
-  - If/Then
-  - && || not
-  - Match
-  - Loops
-    - for
-    - while
+- [Area 2D - Puppy Race](/Sessions/PuppyRace)
+- [Demo Projects](/Resources/Demo Projects)
+- [Animated Sprites](/Sessions/AnimatedSprite)
+- Lab Review
+- DUE: Lab 2
+
+
+
 
 ## Week 7
 ### Monday 2/26
-- UI
-- Methods
-- Signals
-- Functions
-- The Role of Sound and Music in 2D Games
-- DUE: Lab 2
+- [Characters, Levels and Items](/Sessions/Characters_Levels_Items)
+- [2D Game Brainstorming](/Resources/2D_Brainstorming.md)
+
 
 ### Thursday 2/29 LEAP YEAR! WOW!
-- Magic Circle
-- Playtesting
 - DUE: 2D Game Concept
-- DUE: Lab 3
+- Git Collaboration
+
 
 ---
-# 3D
 ## Week 8
-
+- Advanced 2D Mechanics
 
 ### Monday 3/4
-- The Evolution of 3D Games: A Historical Perspective
-- Introduction to 3D in Godot
-
+- Sound
+- Loading Scenes and Manipulating nodes
 
 ### Thursday 3/7
-- Basic 3D Modeling and Texturing
-- DUE: Lab 4
+- UI
+- Project settings
 
 ## Week 9
 ### Monday 3/11
-- Lighting and Camera Techniques in 3D Games
 
 ### Thursday 3/14
-- Physics and Interactivity in 3D Environments
 - DUE: 2D Game
 
+# 3D
+*The 3D Content is being restructured to make better use of our time... Stay tuned...*
+- The Evolution of 3D Games: A Historical Perspective
+- Introduction to 3D in Godot
+- Basic 3D Modeling and Texturing
+- DUE: Lab 4
+- Lighting and Camera Techniques in 3D Games
+- Physics and Interactivity in 3D Environments
 
 ## Week 9.5
 ### Monday 3/18
