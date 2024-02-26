@@ -1,4 +1,7 @@
 # FCLC Introduction to Video Game Design Syllabus - Spring 2024
+## Top of Mind:
+- [Brainstorming Whiteboard](https://www.tldraw.com/r/PmRTarxjBCI_6aiQLrdIh?viewport=-0,0,1504,1003&page=page:page)
+
 **Course Code:** CISC 2540  
 **Schedule:** Mondays and Thursdays, 2:30 - 3:45 PM  
 **Instructor:** John Bezark  
