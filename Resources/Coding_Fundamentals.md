@@ -54,9 +54,12 @@ func make_a_pizza(toppings):
 	spin it around in the air for fun
 	add sauce
 	add cheese
-    	add topping
+  add topping
 	cook it
-out here
+
+make_a_pizza(peperooooni)
+make_a_pizza(mushrooms)
+
 ```
 
 You can make your own functions, or use functions built in to your environment.
