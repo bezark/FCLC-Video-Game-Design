@@ -128,6 +128,7 @@ The course is split into 4 distinct modules each with a distinct project:
 ### Thursday 2/29 LEAP YEAR! WOW!
 - DUE: 2D Game Concept
 - Git Collaboration
+- **Homework: [Lab 3](/Assignments/Labs/Lab_3.md)**
 
 
 ---
