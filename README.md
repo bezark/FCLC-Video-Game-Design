@@ -1,5 +1,7 @@
 # FCLC Introduction to Video Game Design Syllabus - Spring 2024
 ## Top of Mind:
+- [Google Doc](https://docs.google.com/document/d/1nZp9PTnI-GUBHNGm-qHqbML3IC3Qksu_NlJYXPOooFQ/edit?usp=sharing)
+- [New Repo](https://github.com/bezark/FCLC-Collective-Work-Demo)
 - [Brainstorming Whiteboard](https://www.tldraw.com/r/PmRTarxjBCI_6aiQLrdIh?viewport=-0,0,1504,1003&page=page:page)
 
 **Course Code:** CISC 2540  
