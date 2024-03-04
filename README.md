@@ -1,6 +1,6 @@
 # FCLC Introduction to Video Game Design Syllabus - Spring 2024
 ## Top of Mind:
-- [Google Doc](https://docs.google.com/document/d/1nZp9PTnI-GUBHNGm-qHqbML3IC3Qksu_NlJYXPOooFQ/edit?usp=sharing)
+- [2D Components](/Sessions/2D_Components)
 - [New Repo](https://github.com/bezark/FCLC-Collective-Work-Demo)
 - [Brainstorming Whiteboard](https://www.tldraw.com/r/PmRTarxjBCI_6aiQLrdIh?viewport=-0,0,1504,1003&page=page:page)
 
@@ -140,6 +140,10 @@ The course is split into 4 distinct modules each with a distinct project:
 ### Monday 3/4
 - Sound
 - Loading Scenes and Manipulating nodes
+- Checkpoints
+- Respawning
+- Combat
+-
 
 ### Thursday 3/7
 - UI
