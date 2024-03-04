@@ -24,5 +24,12 @@ func _physics_process(delta):
 		velocity.x = direction * SPEED
 	else:
 		velocity.x = move_toward(velocity.x, 0, SPEED)
-
+	check_for_death()
 	move_and_slide()
+
+func check_for_death():
+	print(position)
+	if position.y > 1000:
+		print("I'm dead")
+		var chekpoint = get_node("../Checkpoint")
+		position =chekpoint.position

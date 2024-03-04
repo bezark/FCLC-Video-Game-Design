@@ -47,6 +47,6 @@ position = Vector2(1050.5, 78.5)
 shape = SubResource("RectangleShape2D_pyoy5")
 
 [node name="Respawn" type="Marker2D" parent="."]
-position = Vector2(40, 0)
+position = Vector2(267, -110)
 
 [connection signal="body_entered" from="Killbox" to="Killbox" method="_on_body_entered"]

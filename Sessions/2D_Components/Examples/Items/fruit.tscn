@@ -182,8 +182,10 @@ animations = [{
 
 [node name="Fruit" type="AnimatedSprite2D"]
 sprite_frames = SubResource("SpriteFrames_mrx4y")
-animation = &"idle"
+animation = &"pop"
 autoplay = "idle"
+frame = 5
+frame_progress = 1.0
 script = ExtResource("3_o64dh")
 
 [node name="Area2D" type="Area2D" parent="."]

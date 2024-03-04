@@ -1,6 +1,7 @@
 # FCLC Introduction to Video Game Design Syllabus - Spring 2024
 ## Top of Mind:
 - [2D Components](/Sessions/2D_Components)
+- [In Class Stream](https://youtube.com/live/5Ks3Av5elWU)
 - [New Repo](https://github.com/bezark/FCLC-Collective-Work-Demo)
 - [Brainstorming Whiteboard](https://www.tldraw.com/r/PmRTarxjBCI_6aiQLrdIh?viewport=-0,0,1504,1003&page=page:page)
 

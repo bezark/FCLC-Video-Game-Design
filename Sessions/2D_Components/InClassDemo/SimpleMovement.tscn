@@ -513,3 +513,6 @@ offset_left = 1047.0
 offset_top = 42.0
 offset_right = 2172.0
 offset_bottom = 228.0
+
+[node name="Checkpoint" type="Marker2D" parent="."]
+position = Vector2(-393, -313)

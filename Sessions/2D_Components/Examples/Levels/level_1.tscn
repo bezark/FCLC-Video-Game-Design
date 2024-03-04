@@ -1,8 +1,9 @@
-[gd_scene load_steps=7 format=3 uid="uid://kjahnpq058g7"]
+[gd_scene load_steps=8 format=3 uid="uid://kjahnpq058g7"]
 
 [ext_resource type="PackedScene" uid="uid://b8qjwo70eklew" path="res://Examples/Player/Player.tscn" id="1_8woy6"]
 [ext_resource type="PackedScene" uid="uid://dleqsmbn50ou" path="res://Examples/Levels/exit.tscn" id="2_7fpkp"]
 [ext_resource type="PackedScene" uid="uid://c72g4k8jv78w0" path="res://Examples/Levels/level_2.tscn" id="3_lyixa"]
+[ext_resource type="PackedScene" uid="uid://diog5o2u51yw5" path="res://Examples/Items/item_pick_up.tscn" id="4_ejtvn"]
 [ext_resource type="Script" path="res://Examples/Levels/HardCodedExit.gd" id="4_idkln"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_0c3ay"]
@@ -55,6 +56,10 @@ color = Color(0.262745, 0.6, 0.47451, 1)
 [node name="ModularExit" parent="." instance=ExtResource("2_7fpkp")]
 position = Vector2(422, 60)
 next_level = ExtResource("3_lyixa")
+
+[node name="ModularExit2" parent="." instance=ExtResource("2_7fpkp")]
+position = Vector2(269, 2)
+next_level = ExtResource("4_ejtvn")
 
 [node name="HardCodedExit" type="Area2D" parent="."]
 position = Vector2(351, 44)
