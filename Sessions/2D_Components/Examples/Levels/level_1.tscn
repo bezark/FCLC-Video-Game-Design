@@ -1,10 +1,11 @@
-[gd_scene load_steps=8 format=3 uid="uid://kjahnpq058g7"]
+[gd_scene load_steps=9 format=3 uid="uid://kjahnpq058g7"]
 
 [ext_resource type="PackedScene" uid="uid://b8qjwo70eklew" path="res://Examples/Player/Player.tscn" id="1_8woy6"]
 [ext_resource type="PackedScene" uid="uid://dleqsmbn50ou" path="res://Examples/Levels/exit.tscn" id="2_7fpkp"]
 [ext_resource type="PackedScene" uid="uid://c72g4k8jv78w0" path="res://Examples/Levels/level_2.tscn" id="3_lyixa"]
 [ext_resource type="PackedScene" uid="uid://diog5o2u51yw5" path="res://Examples/Items/item_pick_up.tscn" id="4_ejtvn"]
 [ext_resource type="Script" path="res://Examples/Levels/HardCodedExit.gd" id="4_idkln"]
+[ext_resource type="PackedScene" uid="uid://babsjd4y120k7" path="res://Moving Platform.tscn" id="6_ofywp"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_0c3ay"]
 size = Vector2(121, 39)
@@ -74,5 +75,11 @@ color = Color(1, 0.0431373, 0.0352941, 1)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="HardCodedExit"]
 shape = SubResource("RectangleShape2D_ksp5b")
+
+[node name="MP" parent="." instance=ExtResource("6_ofywp")]
+position = Vector2(379, -108)
+
+[node name="MP2" parent="." instance=ExtResource("6_ofywp")]
+position = Vector2(608, -18)
 
 [connection signal="body_entered" from="HardCodedExit" to="HardCodedExit" method="_on_body_entered"]
