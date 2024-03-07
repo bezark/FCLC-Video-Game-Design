@@ -1,11 +1,12 @@
-[gd_scene load_steps=9 format=3 uid="uid://kjahnpq058g7"]
+[gd_scene load_steps=10 format=3 uid="uid://kjahnpq058g7"]
 
 [ext_resource type="PackedScene" uid="uid://b8qjwo70eklew" path="res://Examples/Player/Player.tscn" id="1_8woy6"]
+[ext_resource type="PackedScene" uid="uid://bqinvgyploi81" path="res://Examples/Platforms/platform.tscn" id="2_2e0yh"]
 [ext_resource type="PackedScene" uid="uid://dleqsmbn50ou" path="res://Examples/Levels/exit.tscn" id="2_7fpkp"]
 [ext_resource type="PackedScene" uid="uid://c72g4k8jv78w0" path="res://Examples/Levels/level_2.tscn" id="3_lyixa"]
 [ext_resource type="PackedScene" uid="uid://diog5o2u51yw5" path="res://Examples/Items/item_pick_up.tscn" id="4_ejtvn"]
 [ext_resource type="Script" path="res://Examples/Levels/HardCodedExit.gd" id="4_idkln"]
-[ext_resource type="PackedScene" uid="uid://babsjd4y120k7" path="res://Moving Platform.tscn" id="6_ofywp"]
+[ext_resource type="PackedScene" uid="uid://babsjd4y120k7" path="res://Examples/Platforms/Moving Platform.tscn" id="6_ofywp"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_0c3ay"]
 size = Vector2(121, 39)
@@ -19,16 +20,7 @@ position = Vector2(13, -48)
 
 [node name="Platforms" type="Node2D" parent="."]
 
-[node name="Platform" type="StaticBody2D" parent="Platforms"]
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Platforms/Platform"]
-position = Vector2(60.5, 19.5)
-shape = SubResource("RectangleShape2D_0c3ay")
-
-[node name="ColorRect" type="ColorRect" parent="Platforms/Platform"]
-offset_right = 122.0
-offset_bottom = 40.0
-color = Color(0.262745, 0.6, 0.47451, 1)
+[node name="Platform" parent="Platforms" instance=ExtResource("2_2e0yh")]
 
 [node name="Platform2" type="StaticBody2D" parent="Platforms"]
 position = Vector2(174, 0)
