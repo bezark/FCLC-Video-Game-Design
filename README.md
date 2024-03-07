@@ -5,17 +5,17 @@
 - [New Repo](https://github.com/bezark/FCLC-Collective-Work-Demo)
 - [Brainstorming Whiteboard](https://www.tldraw.com/r/PmRTarxjBCI_6aiQLrdIh?viewport=-0,0,1504,1003&page=page:page)
 
-**Course Code:** CISC 2540  
-**Schedule:** Mondays and Thursdays, 2:30 - 3:45 PM  
-**Instructor:** John Bezark  
+**Course Code:** CISC 2540
+**Schedule:** Mondays and Thursdays, 2:30 - 3:45 PM
+**Instructor:** John Bezark
 
-## **Course Description:**  
+## **Course Description:**
 An introductory course exploring the fundamentals of digital game design and development. This course will use Godot 4 as the primary game creation tool, and it wil cover the basics of game development, coding fundamentals, and game design principles. Students will engage in hands-on projects to develop practical skills in both 2D and 3D game design. Students are not expected to have any prior programming or game design experience.
 
-## **Course Objectives:**  
-- Understand the principles of game design and development.  
-- Gain proficiency in Godot 4.  
-- Develop basic coding skills relevant to game design.  
+## **Course Objectives:**
+- Understand the principles of game design and development.
+- Gain proficiency in Godot 4.
+- Develop basic coding skills relevant to game design.
 - Complete three major game design projects: a tabletop game, a 2D game, and a 3D game.
 - Enhance writing and oral presentation skills through game-related assignments.
 - Be able to better work in teams
@@ -28,10 +28,11 @@ The  work of the class consists of the following:
 | Assignment                                                            | Description                                                                                       | Due Date                                            | Points |
 |:----------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:----------------------------------------------------|--------|
 | Attendance                                                            | 2 Excused absences.                                                                               |                                                     | 10     |
-| Class Participation                                                   | Actively participate in class discussions                                                         |                                                     | 14     |
+| Class Participation                                                   | Actively participate in class discussions                                                         |                                                     | 15     |
 | [Tabletop Game](/Assignments/Tabletop.md)                             | A playable prototype of a tabletop game                                                           | 2/1                                                 | 10     |
 | [Tabletop Game Process Paper](/Assignments/TableTop_Process_Paper.md) | Paper which documents process, execution and playtesting of tabletop game                         | 2/12                                                | 10     |
-| Lab 1-6                                                               | 6 short coding assignments designed to build proficiency. 6 points each.                          | 2/15,  2/22,  2/29, 3/7, 4/4 and 4/11               | 36     |
+| Lab 1-5                                                               | 5 short coding assignments designed to build proficiency. 6 points each.                          | 2/15,  2/22, 3/7, 4/4 and 4/11                      | 30     |
+| [2D Concept Paper](/Assignments/2D/2D_Concept.md)                     | A brief paper describing your concept for the 2D Game                                             | 2/29                                                | 5      |
 | [2D Game](/Assignments/2D/2DGame.md)                                  | A playable prototype of a 2D game                                                                 | 3/14                                                | 20     |
 | 2D Game Process Paper                                                 | Paper which documents process, execution and playtesting of 2D game                               | Concept section due on 2/29. Final version due 3/21 | 20     |
 | Capstone Game Concept Presentation                                    | 15 Minute Group Presentation documenting concepts, inspirations and intentions for capstone game. | 4/15 or 4/18                                        | 20     |
@@ -139,19 +140,23 @@ The course is split into 4 distinct modules each with a distinct project:
 - Advanced 2D Mechanics
 
 ### Monday 3/4
-- Sound
 - Loading Scenes and Manipulating nodes
-- Checkpoints
 - Respawning
 - Combat
--
+- Checkpoints
+
 
 ### Thursday 3/7
-- UI
-- Project settings
+- project scaffolding
+- Sound
+- projectiles
+- branches and merging
+- working time
 
 ## Week 9
 ### Monday 3/11
+- UI
+- Project settings
 
 ### Thursday 3/14
 - DUE: 2D Game
@@ -211,13 +216,13 @@ The course is split into 4 distinct modules each with a distinct project:
 - DUE: Final Project and Process Paper
 
 
-# **Policies and Expectations:**  
+# **Policies and Expectations:**
 - Attendance, participation, submission guidelines, and academic integrity policies.
 
 
 
 
-# **Necessary Materials:**  
+# **Necessary Materials:**
 - [Godot 4.2.1](https://godotengine.org/) : An [open source](https://en.wikipedia.org/wiki/Open_source) 2D, 3D and XR game engine.
 - [Blender](https://www.blender.org/) : an open source 3D modeling and animation program.
 - [Github Desktop](https://desktop.github.com/): an industry standard [version control](https://en.wikipedia.org/wiki/Version_control) system
