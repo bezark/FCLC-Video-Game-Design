@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://q4cd00bo0v4r"]
 
-[ext_resource type="Script" path="res://Gun.gd" id="1_2edbo"]
+[ext_resource type="Script" path="res://Examples/Attacking/Gun.gd" id="1_2edbo"]
 
 [node name="Gun" type="Node2D"]
 script = ExtResource("1_2edbo")
@@ -23,6 +23,6 @@ offset_bottom = -24.0
 autostart = true
 
 [node name="Marker" type="Marker2D" parent="."]
-position = Vector2(43, -32)
+position = Vector2(44, -32)
 
 [connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]

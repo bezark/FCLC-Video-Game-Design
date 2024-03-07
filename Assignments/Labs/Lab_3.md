@@ -8,7 +8,7 @@ Please create a Github Repository that:
     - create their own scene
     - make an instance of that scene in the main scene
     - commit and push their changes to the repository
-- At least one branch and one successful merge from a branch into the master.
+- At least one branch.
 
 Submit the link to the repository page on blackboard.
 
