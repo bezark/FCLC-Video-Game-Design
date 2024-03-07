@@ -1,9 +1,9 @@
 # FCLC Introduction to Video Game Design Syllabus - Spring 2024
 ## Top of Mind:
 The first playable prototype of your [2D Game](/Assignments/2D/2DGame.md) is due on Thursday 3/14!
-- [2D Components](/Sessions/2D_Components)
-- [In class demonstration of Projectiles and Sound](https://youtube.com/live/5Ks3Av5elWU)
-- [Videos](/Resources/Videos.md)
+- Handy code examples can be found in [2D Components](/Sessions/2D_Components)
+- Check out the [in class demonstration of Projectiles and Sound](https://youtube.com/live/5Ks3Av5elWU)
+- If you need tutorials check out [these videos](/Resources/Videos.md)
 
 **Course Code:** CISC 2540
 **Schedule:** Mondays and Thursdays, 2:30 - 3:45 PM
