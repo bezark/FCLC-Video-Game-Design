@@ -25,7 +25,6 @@ bus = &"Echo"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Icon/Area2D"]
 position = Vector2(14.7692, -69.4237)
-scale = Vector2(1, 1)
 shape = SubResource("RectangleShape2D_v7c6u")
 
 [node name="Level1" parent="." instance=ExtResource("3_nsm5y")]
