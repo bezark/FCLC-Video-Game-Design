@@ -29,12 +29,12 @@ Document and reflect on your process in designing and developing the Capstone Ga
 - **Format:** Plaintext or Markdown.
 - **Submission:** One process paper for the tabletop game project.
 
-#### Grading Rubric: (Total 10 Points)
-- **Inspiration and Intention (2 points):** Effectively communicates the game's inspiration and intended player experience.
-- **Design Process (3 points):** Provides a detailed and reflective overview of the design process, including problem-solving and iterations.
-- **Individual Contributions (2 points):** Each group member clearly articulates their role and contributions.
-- **Playtesting Experience (2 points):** Insightful analysis of playtesting outcomes and their impact on the game design.
-- **Future Development (1 point):** Offers well-considered ideas for future game enhancements.
+#### Grading Rubric: (Total 20 Points)
+- **Inspiration and Intention (4 points):** Effectively communicates the game's inspiration and intended player experience.
+- **Design Process (6 points):** Provides a detailed and reflective overview of the design process, including problem-solving and iterations.
+- **Individual Contributions (4 points):** Each group member clearly articulates their role and contributions.
+- **Playtesting Experience (4 points):** Insightful analysis of playtesting outcomes and their impact on the game design.
+- **Future Development (2 point):** Offers well-considered ideas for future game enhancements.
 
 #### Tips for Success:
 - **Engage in Reflection:** Focus on narrating your team's journey, including both successes and challenges.
