@@ -38,8 +38,7 @@ The  work of the class consists of the following:
 | [Capstone Concept Paper](/Assignments/Capstone/Capstone_Concept.md)            | A brief paper describing your concept for the 2D Game                      | 4/12 @ 11:59 PM            | 6             |
 | [Capstone Game](/Assignments/Capstone/Capstone_Game.md)                        | A polished game. Can be an evolution of the 2D or 3D game.                 | Final                      | 30            |
 | [Capstone Game Process Paper](/Assignments/Capstone/Capstone_Process_Paper.md) | Paper which documents process, execution and playtesting of Capstone game. | Final                      | 20            |
-|:-------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:---------------------------|---------------|
-| Total Points Possible                                                          |                                                                            |                            | 150           |
+| **Total Points Possible**                                                      |                                                                            |                            | **150**       |
 
 
 A note on workload:
