@@ -40,3 +40,6 @@ Document and reflect on your process in designing and developing the Capstone Ga
 - **Engage in Reflection:** Focus on narrating your team's journey, including both successes and challenges.
 - **Collaborative Writing:** Ensure that all team members contribute to the paper to capture diverse perspectives.
 - **Conciseness is Key:** Aim to be clear and concise in your writing, focusing on significant aspects of your design process.
+
+
+**If you are working in a group make sure to write all the names of your group members on the paper!!**
