@@ -1,8 +1,11 @@
 # FCLC Introduction to Video Game Design Syllabus - Spring 2024
 ## Top of Mind:
-The first playable prototype of your [2D Game](/Assignments/2D/2DGame.md) is due on Thursday 3/14!
-- Handy code examples can be found in [2D Components](/Sessions/2D_Components)
-- Check out the [in class demonstration of Projectiles and Sound](https://youtube.com/live/5Ks3Av5elWU)
+- [Optional 2D Game Reflection Paper](/Assignments/2D/2D_Reflection.md) 
+- [Lab 4](/Assignments/Labs/Lab_4.md)
+- [Capstone Concept Paper](/Assignments/Capstone/Capstone_Concept.md) - A brief paper describing your concept for the 2D Game. Due 4/12 @ 11:59 PM.
+- [Capstone Game](/Assignments/Capstone/Capstone_Game.md) - Due on final.
+- [Capstone Game Process Paper](/Assignments/Capstone/Capstone_Process_Paper.md) - Paper which documents process, execution and playtesting of Capstone game. Due on final.
+
 - If you need tutorials check out [these videos](/Resources/Videos.md)
 
 **Course Code:** CISC 2540
@@ -41,16 +44,12 @@ The  work of the class consists of the following:
 | **Total Points Possible**                                                      |                                                                            |                            | **150**       |
 
 
-A note on workload:
-  Yes, this sounds like a lot of work! However please note that the final project is an **evolution** of one of the existing projects. Additionally, all the process papers are co-written by the group and are meant to help with designing the game itself. There is very little research or reading in the course. This is a new course, so if this workload is intimidating, let me know and it can potentially be adjusted!
-
 # **Course Outline**
 
-The course is split into 4 distinct modules each with a distinct project:
-- Week 1-3: Game Design Fundamentals and tabletop design
-- Week 2-6: 2D Game Design
-- Week 7-10: 3D Game Design
-- Week 10-14: Final Project Development
+The course is split into 3 distinct modules each with a distinct project:
+- Week 1-4: Game Design Fundamentals and tabletop design
+- Week 5-10: 2D Game Design
+- Week 10-14: 3D Game Design/Final Project Development
 
 ## Week 1 Fundamentals
 ### Thursday 1/18
