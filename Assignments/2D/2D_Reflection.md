@@ -4,12 +4,12 @@
 This optional reflection paper invites groups to deeply analyze their learning journey throughout the 2D game development process in Godot. It's an opportunity to articulate the lessons learned, identify mistakes and areas of confusion, and outline a strategy for future improvement. This introspective exercise can enhance your 2D game project grade by up to 7 points, depending on the depth of insight and reflection demonstrated.
 
 #### Structure of the Reflection Paper:
-- **Learning and Development (500 words):** Describe the key learnings from the project. What concepts or skills did you acquire or improve upon?
-- **Challenges and Mistakes (500 words):** Reflect on the challenges faced, mistakes made, and any confusion encountered during the development process. How did these experiences contribute to your learning?
-- **Path Forward (500 words):** Based on your reflections, discuss the potential steps or strategies you would adopt to improve your game development process in future projects.
+- **Learning and Development (400 words):** Describe the key learnings from the project. What concepts or skills did you acquire or improve upon?
+- **Challenges and Mistakes (400 words):** Reflect on the challenges faced, mistakes made, and any confusion encountered during the development process. How did these experiences contribute to your learning?
+- **Path Forward (200 words):** Based on your reflections, discuss the potential steps or strategies you would adopt to improve your game development process in future projects.
 
 #### Submission Requirements:
-- **Total Length:** Approximately 1200 words.
+- **Total Length:** Approximately 1000 words.
 - **Format:** Plaintext or Markdown.
 - **Submission:** One reflection paper per group for the 2D game project.
 
