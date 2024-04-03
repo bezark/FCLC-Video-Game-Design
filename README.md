@@ -25,19 +25,21 @@ An introductory course exploring the fundamentals of digital game design and dev
 
 The  work of the class consists of the following:
 
-| Assignment                                                            | Description                                                                | Due Date                   | Points        |
-|:----------------------------------------------------------------------|:---------------------------------------------------------------------------|:---------------------------|---------------|
-| Attendance                                                            | 2 Excused absences.                                                        |                            | 10            |
-| Class Participation                                                   | Actively participate in class discussions                                  |                            | 15            |
-| [Tabletop Game](/Assignments/Tabletop.md)                             | A playable prototype of a tabletop game                                    | 2/1                        | 10            |
-| [Tabletop Game Process Paper](/Assignments/TableTop_Process_Paper.md) | Paper which documents process, execution and playtesting of tabletop game  | 2/12                       | 10            |
-| Lab 1-4                                                               | 4 short coding assignments designed to build proficiency. 6 points each.   | 2/15,  2/22, 3/7, and 4/11 | 24            |
-| [2D Concept Paper](/Assignments/2D/2D_Concept.md)                     | A brief paper describing your concept for the 2D Game                      | 2/29                       | 5             |
-| [2D Game](/Assignments/2D/2DGame.md)                                  | A playable prototype of a 2D game                                          | 3/14                       | 20            |
-| [2D Game Reflection Paper](/Assignments/2D/2D_Reflection.md)          | Optional paper to reflect on 2D game. Improves 2D game grade.              | 4/11                       | +7 to 2D Game |
-| Capstone Game                                                         | A polished game. Can be an evolution of the 2D or 3D game.                 | Final                      | 30            |
-| Capstone Game Process Paper                                           | Paper which documents process, execution and playtesting of Capstone game. | Final                      | 30            |
-| Total Points Possible                                                 |                                                                            |                            | 196           |
+| Assignment                                                                     | Description                                                                | Due Date                   | Points        |
+|:-------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:---------------------------|---------------|
+| Attendance                                                                     | 2 Excused absences.                                                        |                            | 10            |
+| Class Participation                                                            | Actively participate in class discussions                                  |                            | 15            |
+| [Tabletop Game](/Assignments/Tabletop.md)                                      | A playable prototype of a tabletop game                                    | 2/1                        | 10            |
+| [Tabletop Game Process Paper](/Assignments/TableTop_Process_Paper.md)          | Paper which documents process, execution and playtesting of tabletop game  | 2/12                       | 10            |
+| [Labs 1-4](Assignments/Labs)                                                   | 4 short coding assignments designed to build proficiency. 6 points each.   | 2/15,  2/22, 3/7, and 4/11 | 24            |
+| [2D Concept Paper](/Assignments/2D/2D_Concept.md)                              | A brief paper describing your concept for the 2D Game                      | 2/29                       | 5             |
+| [2D Game](/Assignments/2D/2DGame.md)                                           | A playable prototype of a 2D game                                          | 3/14                       | 20            |
+| [2D Game Reflection Paper](/Assignments/2D/2D_Reflection.md)                   | Optional paper to reflect on 2D game. Improves 2D game grade.              | 4/11                       | +7 to 2D Game |
+| [Capstone Concept Paper](/Assignments/Capstone/Capstone_Concept.md)            | A brief paper describing your concept for the 2D Game                      | 4/12 @ 11:59 PM            | 6             |
+| [Capstone Game](/Assignments/Capstone/Capstone_Game.md)                        | A polished game. Can be an evolution of the 2D or 3D game.                 | Final                      | 30            |
+| [Capstone Game Process Paper](/Assignments/Capstone/Capstone_Process_Paper.md) | Paper which documents process, execution and playtesting of Capstone game. | Final                      | 20            |
+|:-------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:---------------------------|---------------|
+| Total Points Possible                                                          |                                                                            |                            | 150           |
 
 
 A note on workload:
