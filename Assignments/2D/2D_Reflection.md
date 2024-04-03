@@ -20,3 +20,7 @@ This optional reflection paper invites groups to deeply analyze their learning j
 - **Be Honest:** Openly discuss the hurdles and errors, as these are valuable learning moments.
 - **Insightful Analysis:** Go beyond surface-level observations to analyze how specific experiences affected your project and learning.
 - **Future Focus:** Clearly outline how this project's insights will influence your approach to future game development endeavors.
+
+
+
+**To submit, please resubmit as a file on your 2D game project.**
