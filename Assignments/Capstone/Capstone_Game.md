@@ -9,7 +9,7 @@ For this project you may work in self selected groups or individually.
 
 
 #### Objective:
-Design and create a 2D game using Godot 4 that can be played and completed within a 10-15 minute timeframe. Your game should be engaging, embody clear objectives, and provide an enjoyable experience for players.
+Design and create a game using Godot 4 that can be played and completed within a 10-15 minute timeframe. Your game should be engaging, embody clear objectives, and provide an enjoyable experience for players.
 
 #### Constraints:
 - **Duration:** The game's total playtime should not exceed 15 minutes, ensuring a concise yet engaging experience.
