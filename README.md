@@ -185,7 +185,7 @@ The course is split into 3 distinct modules each with a distinct project:
 
 ## Week 12
 ### Monday 4/15
-- Branches
+- [Branches](https://github.com/bezark/Branch-Merge-Plugin-Demo)
 - Creating Assets
 
 
