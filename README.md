@@ -185,7 +185,8 @@ The course is split into 3 distinct modules each with a distinct project:
 
 ## Week 12
 ### Monday 4/15
-- DUE: Final project pitch and concept. Informal presentation explaining the group concept for the final project. Slides not necessary. Each group member will be responsible for talking about an aspect of the project
+- Branches
+- Creating Assets
 
 
 ### Thursday 4/18
@@ -194,19 +195,21 @@ The course is split into 3 distinct modules each with a distinct project:
 ## Week 13
 ### Monday 4/22
 - Emerging Technologies in Game Design
+
 ### Thursday 4/25
 - Preparing for the Game Industry: Portfolio and Career Paths
+
 ## Final Week
+
 ### Monday 4/29
 - DUE: Final project playtest
+
 ## Finals
+
 ### Thursday 5/2 Reading Day
+
 ### Final
 - DUE: Final Project and Process Paper
-
-
-# **Policies and Expectations:**
-- Attendance, participation, submission guidelines, and academic integrity policies.
 
 
 
