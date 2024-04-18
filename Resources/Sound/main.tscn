@@ -29,9 +29,11 @@ texture = ExtResource("2_q24wf")
 stream = ExtResource("3_cplck")
 
 [node name="Music" type="AudioStreamPlayer2D" parent="CharacterBody2D"]
+position = Vector2(-18, -26)
 stream = ExtResource("4_jrgdm")
 volume_db = -8.0
 autoplay = true
+panning_strength = 2.62
 
 [node name="StaticBody2D" type="StaticBody2D" parent="."]
 position = Vector2(0, 366)

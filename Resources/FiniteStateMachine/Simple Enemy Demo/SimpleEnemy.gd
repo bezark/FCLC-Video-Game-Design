@@ -16,6 +16,10 @@ func _physics_process(delta):
 			pass
 		"moving":
 			velocity = target - position
+		"dying":
+			state = "idle"
+			queue_free()
+		
 	
 
 	move_and_slide()
@@ -33,3 +37,8 @@ func _on_vision_body_exited(body):
 	state = "idle"
 	velocity = Vector2(0.,0.)
 	print("changing state to idle")
+
+
+func _on_hitbox_body_entered(body):
+	if body.is_in_group("player"):
+		state= "dying"

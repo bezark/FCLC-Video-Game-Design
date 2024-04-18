@@ -1,7 +1,7 @@
 [gd_scene load_steps=6 format=3 uid="uid://crn6gg0m31uhm"]
 
 [ext_resource type="Script" path="res://Simple Enemy Demo/CharacterBody2D.gd" id="1_km8iq"]
-[ext_resource type="Texture2D" uid="uid://5syjbyvdqbtu" path="res://Assets/icon.svg" id="2_q24wf"]
+[ext_resource type="Texture2D" uid="uid://c4oaaav66llsb" path="res://Assets/icon.svg" id="2_q24wf"]
 [ext_resource type="PackedScene" uid="uid://dlu6ai5f346mr" path="res://Simple Enemy Demo/simple_enemy.tscn" id="4_txhhl"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_u7sp8"]
@@ -12,7 +12,7 @@ size = Vector2(3894, 128)
 
 [node name="Node2D" type="Node2D"]
 
-[node name="CharacterBody2D" type="CharacterBody2D" parent="." groups=["player"]]
+[node name="CharacterBody2D" type="CharacterBody2D" parent="." groups=["character", "player"]]
 script = ExtResource("1_km8iq")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
