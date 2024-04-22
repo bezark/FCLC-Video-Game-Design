@@ -19,4 +19,4 @@ portrait = ExtResource("3_0dc5c")
 
 [resource]
 script = ExtResource("1_qugkr")
-lines_of_dialogue = Array[ExtResource("2_ttxcf")]([SubResource("Resource_5m0h0"), SubResource("Resource_4savp")])
+lines_of_dialogue = Array[ExtResource("2_ttxcf")]([SubResource("Resource_5m0h0"), SubResource("Resource_4savp"), null])
