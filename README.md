@@ -1,6 +1,5 @@
 # FCLC Introduction to Video Game Design Syllabus - Spring 2024
 ## Top of Mind:
-- [Capstone Concept Paper](/Assignments/Capstone/Capstone_Concept.md) - A brief paper describing your concept for the 2D Game. Due 4/12 @ 11:59 PM.
 - [Capstone Game](/Assignments/Capstone/Capstone_Game.md) - Due on final.
 - [Capstone Game Process Paper](/Assignments/Capstone/Capstone_Process_Paper.md) - Paper which documents process, execution and playtesting of Capstone game. Due on final.
 
