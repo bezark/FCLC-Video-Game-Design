@@ -1,5 +1,7 @@
 # FCLC Introduction to Video Game Design Syllabus - Spring 2024
 ## Top of Mind:
+- I will be grading Thursday evening 5/2. By Friday morning you will see your final grade for the class and will have until 5/9 11:59pm to submit any missing assignments or make revisions.
+- On 5/10 I'll post final grades.
 - [Capstone Game](/Assignments/Capstone/Capstone_Game.md) - Due on final.
 - [Capstone Game Process Paper](/Assignments/Capstone/Capstone_Process_Paper.md) - Paper which documents process, execution and playtesting of Capstone game. Due on final.
 
