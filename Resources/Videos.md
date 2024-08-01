@@ -17,3 +17,8 @@
 ## GMTK
 - [Balance](https://youtu.be/WXQzdXPTb2A)
 - [Utility AI/ HOw the Sims Think](https://www.youtube.com/watch?v=9gf2MT-IOsg)
+
+
+
+# 3D
+- [How do video game graphics work branch education](https://www.youtube.com/watch?v=C8YtdC8mxTU)
