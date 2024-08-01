@@ -2,6 +2,13 @@
 ## Top of Mind:
 - I will be grading Thursday evening 5/2. By Friday morning you will see your final grade for the class and will have until 5/9 11:59pm to submit any missing assignments or make revisions.
 - On 5/10 I'll post final grades.
+
+- [How do video game graphics work branch education](https://www.youtube.com/watch?v=C8YtdC8mxTU)
+
+		- TODO #watch {{video https://www.youtube.com/watch?v=sb6xe87RUE4}}
+- [Optional 2D Game Reflection Paper](/Assignments/2D/2D_Reflection.md)
+- [Lab 4](/Assignments/Labs/Lab_4.md)
+- [Capstone Concept Paper](/Assignments/Capstone/Capstone_Concept.md) - A brief paper describing your concept for the 2D Game. Due 4/12 @ 11:59 PM.
 - [Capstone Game](/Assignments/Capstone/Capstone_Game.md) - Due on final.
 - [Capstone Game Process Paper](/Assignments/Capstone/Capstone_Process_Paper.md) - Paper which documents process, execution and playtesting of Capstone game. Due on final.
 
