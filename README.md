@@ -1,21 +1,11 @@
-# FCLC Introduction to Video Game Design Syllabus - Spring 2024
-## Top of Mind:
-- I will be grading Thursday evening 5/2. By Friday morning you will see your final grade for the class and will have until 5/9 11:59pm to submit any missing assignments or make revisions.
-- On 5/10 I'll post final grades.
+# Scratch
+- DUE: Tabletop process paper
 
-- [How do video game graphics work branch education](https://www.youtube.com/watch?v=C8YtdC8mxTU)
 
-		- TODO #watch {{video https://www.youtube.com/watch?v=sb6xe87RUE4}}
-- [Optional 2D Game Reflection Paper](/Assignments/2D/2D_Reflection.md)
-- [Lab 4](/Assignments/Labs/Lab_4.md)
-- [Capstone Concept Paper](/Assignments/Capstone/Capstone_Concept.md) - A brief paper describing your concept for the 2D Game. Due 4/12 @ 11:59 PM.
-- [Capstone Game](/Assignments/Capstone/Capstone_Game.md) - Due on final.
-- [Capstone Game Process Paper](/Assignments/Capstone/Capstone_Process_Paper.md) - Paper which documents process, execution and playtesting of Capstone game. Due on final.
-
-- If you need tutorials check out [these videos](/Resources/Videos.md)
+# FCLC Introduction to Video Game Design Syllabus - Fall 2024
 
 **Course Code:** CISC 2540
-**Schedule:** Mondays and Thursdays, 2:30 - 3:45 PM
+**Schedule:** Tuesdays and Fridays, 1:00 - 2:15 PM
 **Instructor:** John Bezark
 
 ## **Course Description:**
@@ -25,7 +15,7 @@ An introductory course exploring the fundamentals of digital game design and dev
 - Understand the principles of game design and development.
 - Gain proficiency in Godot 4.
 - Develop basic coding skills relevant to game design.
-- Complete three major game design projects: a tabletop game, a 2D game, and a 3D game.
+- Complete three major game design projects: a tabletop game, a 2D game, and a capstone game.
 - Enhance writing and oral presentation skills through game-related assignments.
 - Be able to better work in teams
 - Respond to critical feedback constructively
@@ -41,84 +31,99 @@ The  work of the class consists of the following:
 | [Tabletop Game](/Assignments/Tabletop.md)                                      | A playable prototype of a tabletop game                                    | 2/1                        | 10            |
 | [Tabletop Game Process Paper](/Assignments/TableTop_Process_Paper.md)          | Paper which documents process, execution and playtesting of tabletop game  | 2/12                       | 10            |
 | [Labs 1-4](Assignments/Labs)                                                   | 4 short coding assignments designed to build proficiency. 6 points each.   | 2/15,  2/22, 3/7, and 4/11 | 24            |
-| [2D Concept Paper](/Assignments/2D/2D_Concept.md)                              | A brief paper describing your concept for the 2D Game                      | 2/29                       | 5             |
+| [2D Game Design Document](/Assignments/2D/2D_Concept.md)                       | A brief paper describing your concept for the 2D Game                      | 2/29                       | 5             |
 | [2D Game](/Assignments/2D/2DGame.md)                                           | A playable prototype of a 2D game                                          | 3/14                       | 20            |
-| [2D Game Reflection Paper](/Assignments/2D/2D_Reflection.md)                   | Optional paper to reflect on 2D game. Improves 2D game grade.              | 4/11                       | +7 to 2D Game |
 | [Capstone Concept Paper](/Assignments/Capstone/Capstone_Concept.md)            | A brief paper describing your concept for the 2D Game                      | 4/12 @ 11:59 PM            | 6             |
 | [Capstone Game](/Assignments/Capstone/Capstone_Game.md)                        | A polished game. Can be an evolution of the 2D or 3D game.                 | Final                      | 30            |
-| [Capstone Game Process Paper](/Assignments/Capstone/Capstone_Process_Paper.md) | Paper which documents process, execution and playtesting of Capstone game. | Final                      | 20            |
 | **Total Points Possible**                                                      |                                                                            |                            | **150**       |
+
+
+# Broad Overview
+1. What is a Game?
+2. Prototypes and Iterations
+3. Playtesting/Hello Godot 
+4. Getting Started in 2D 
+5. Coding Fundamentals
+6. Level and Environment Design
+7. Characters and Interactions
+8. User Interface
+9. 2D Game Playtests
+10. Intro to 3D
+11. 3D Environments
+12. Physics
+13. Advanced Topics
+14. Project Development
+15. Final Projects
 
 
 # **Course Outline**
 
-The course is split into 3 distinct modules each with a distinct project:
-- Week 1-4: Game Design Fundamentals and tabletop design
-- Week 5-10: 2D Game Design
+The course is split into 3 distinct modules each with a unique project:
+- Week 1-3: Game Design Fundamentals and tabletop design
+- Week 4-10: 2D Game Design
 - Week 10-14: 3D Game Design/Final Project Development
 
-## Week 1 Fundamentals
-### Thursday 1/18
+## Week 1 - What is a Game?
+### Friday 8/30
 - [CLASS NOTES](/Sessions/Class_1)
 - Syllabus Reviews
-- Survey
-- Git init
 - Game Design Fundamentals
 - ASSIGN: Tabletop
 
-## Week 2 Tabletop Genres? Where to begin?
-### Monday 1/23 NO CLASS
-### Thursday 1/25
-  - [CLASS NOTES](/Sessions/Class_2)
+### Tuesdday 9/3
+
+### Friday 9/6
   - Playtesting
   - Prototyping Tabletop Games: Balancing and Mechanics
   - Reading: MDA and Magic Circle
-
-## Week 3 Iteration and Playtesting
-### Monday 1/30
-- [CLASS NOTES](/Sessions/Class_3)
 - MDA Framework
 - Systems, Loops and Balance
+
+## Week 2 - Prototyping and Iteration
+### Tuesday 9/10
+
+### Friday 9/13
+NO IN PERSON???
 - Group work
 
-### Thursday 2/1
+## Week 3  Playtesting/Hello Godot
+### Tuesday 9/17
 - Playtesting
 - DUE: Tabletop Game
 
-
-## Week 4 - Getting Started in 2D
-### Monday 2/5
-- Playtesting
+### Friday 9/20
 - Git review
-
-### Thursday 2/8
 - Getting started with Godot
 - **Homework: [Lab 1](/Assignments/Labs/Lab_1.md)**
 
-## Week 5
-### Monday 2/12
-- Getting started with Godot
+## Week 4 - Getting Started in 2D
+### Tuesday 9/24
 - Nodes and Scenes
-- **Homework: [2D Game](/Assignments/2D/2DGame.md)**
-- DUE: Tabletop process paper
 
+### Friday 9/27
+- Nodes to Know
+- Important 2D Games
 
----
-
-
-### Thursday 2/15
-- [In Class Project](Sessions/Coding_Fundamentals)
+## Week 5 - Coding Fundamentals
+### Tuesday 10/1
 - [Coding Fundamentals](Resources/Coding_Fundamentals.md)
   - Scripts and properties
   - Variables
 - DUE: Lab 1
 - **Homework: [Lab 2](/Assignments/Labs/Lab_2.md)**
+- **Homework: [2D Game](/Assignments/2D/2DGame.md)**
 
-## Week 6
-### Tuesday 2/20 NO CLASS
+
+
+### Friday 10/4
+- Functions
+- Arrays
 - [Conditionals, Input](https://www.youtube.com/watch?v=PyADIUsLobs)
 
-### Thursday 2/22
+## Week 6 - Level and Environment Design
+### Tuesday 10/8
+
+### Friday 10/11
 - [Area 2D - Puppy Race](/Sessions/PuppyRace)
 - [Demo Projects](/Resources/Demo Projects)
 - [Animated Sprites](/Sessions/AnimatedSprite)
@@ -129,12 +134,12 @@ The course is split into 3 distinct modules each with a distinct project:
 
 
 ## Week 7
-### Monday 2/26
+### Tuesday 10/15
 - [Characters, Levels and Items](/Sessions/Characters_Levels_Items)
 - [2D Game Brainstorming](/Resources/2D_Brainstorming.md)
 
 
-### Thursday 2/29 LEAP YEAR! WOW!
+### Friday 10/18
 - DUE: 2D Game Concept
 - Git Collaboration
 - **Homework: [Lab 3](/Assignments/Labs/Lab_3.md)**
@@ -142,16 +147,15 @@ The course is split into 3 distinct modules each with a distinct project:
 
 ---
 ## Week 8
-- Advanced 2D Mechanics
 
-### Monday 3/4
+### Tuesday 10/22
 - Loading Scenes and Manipulating nodes
 - Respawning
 - Combat
 - Checkpoints
 
 
-### Thursday 3/7
+### Friday 10/25
 - project scaffolding
 - Sound
 - projectiles
@@ -159,61 +163,58 @@ The course is split into 3 distinct modules each with a distinct project:
 - working time
 
 ## Week 9
-### Monday 3/11
+### Tuesday 10/29
 - UI
 - Project settings
 
-### Thursday 3/14
+### Friday 11/1
 - Project Development
-
-## Week 9.5
-### Monday 3/18
-- DUE: 2D Game
-
-
-## Spring & Easter Break 3/21 - 4/1
-
-# 3D
 
 ## Week 10
 
-### Thursday 4/4
+### Tuesday 11/5
+NO CLASS: GO VOTE!
+
+### Friday 11/8
 - Introduction to 3D in Godot
 - Lighting and Camera Techniques in 3D Games
 
 ## Week 11
-### Monday 4/8
-- Physics and Interactivity in 3D Environments
+### Tuesday 11/12
+NO IN PERSON
 
-### Thursday 4/11
+### Friday 11/15
+NO IN PERSON
 - DUE: Lab 4
 - DUE: Optional 2D Reflection Paper
 
 ## Week 12
-### Monday 4/15
-- [Branches](https://github.com/bezark/Branch-Merge-Plugin-Demo)
+### Tuesday 11/18
 - Exporting
 - NPCs, Classes and Inheritance...
 
 
-### Thursday 4/18
+### Friday 11/22
 - Advanced 3D Game Mechanics: Multiplayer and Networking
 
 ## Week 13
-### Monday 4/22
+### Tuesday 11/26
 - Emerging Technologies in Game Design
 
-### Thursday 4/25
-- Preparing for the Game Industry: Portfolio and Career Paths
+### Friday 11/29
+- NO CLASS: BUY A NEW TV?
 
-## Final Week
+## Week 14
 
-### Monday 4/29
+### Tuesday 12/3
 - DUE: Final project playtest
 
-## Finals
+### Friday 12/6
 
-### Thursday 5/2 Reading Day
+## Week 15 
+
+### Tuesday 12/10
+- Preparing for the Game Industry: Portfolio and Career Paths
 
 ### Final
 - DUE: Final Project and Process Paper
