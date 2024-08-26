@@ -1,7 +1,3 @@
-# Scratch
-- DUE: Tabletop process paper
-
-
 # FCLC Introduction to Video Game Design Syllabus - Fall 2024
 
 **Course Code:** CISC 2540
@@ -71,6 +67,7 @@ The course is split into 3 distinct modules each with a unique project:
 - ASSIGN: Tabletop
 
 ### Tuesdday 9/3
+- Prototyping
 
 ### Friday 9/6
   - Playtesting
