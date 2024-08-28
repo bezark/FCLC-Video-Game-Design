@@ -240,7 +240,7 @@ NO IN PERSON
 - [Forums](https://forum.godotengine.org/)
 - [Godot Discord](https://discord.com/invite/zH7NUgz)
 
-- **[TUTORIALS](Resources/Tutorials.md)**
+- **[TUTORIALS](https://docs.godotengine.org/en/stable/community/tutorials.html)**
 
 ## Git & Github
 
