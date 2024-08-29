@@ -1,4 +1,4 @@
-# FCLC Introduction to Video Game Design Syllabus - Fall 2024
+ FCLC Introduction to Video Game Design Syllabus - Fall 2024
 
 **Course Code:** CISC 2540
 **Schedule:** Tuesdays and Fridays, 1:00 - 2:15 PM
@@ -21,37 +21,22 @@ An introductory course exploring the fundamentals of digital game design and dev
 
 The  work of the class consists of the following:
 
-| Assignment                                                                     | Description                                                                | Due Date                   | Points        |
-|:-------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:---------------------------|---------------|
-| Attendance                                                                     | 2 Excused absences.                                                        |                            | 10            |
-| Class Participation                                                            | Actively participate in class discussions                                  |                            | 15            |
-| [Tabletop Game](/Assignments/Tabletop.md)                                      | A playable prototype of a tabletop game                                    | 2/1                        | 10            |
-| [Tabletop Game Process Paper](/Assignments/TableTop_Process_Paper.md)          | Paper which documents process, execution and playtesting of tabletop game  | 2/12                       | 10            |
-| [Labs 1-4](Assignments/Labs)                                                   | 4 short coding assignments designed to build proficiency. 6 points each.   | 2/15,  2/22, 3/7, and 4/11 | 24            |
-| [2D Game Design Document](/Assignments/2D/2D_Concept.md)                       | A brief paper describing your concept for the 2D Game                      | 2/29                       | 5             |
-| [2D Game](/Assignments/2D/2DGame.md)                                           | A playable prototype of a 2D game                                          | 3/14                       | 20            |
-| [Capstone Concept Paper](/Assignments/Capstone/Capstone_Concept.md)            | A brief paper describing your concept for the 2D Game                      | 4/12 @ 11:59 PM            | 6             |
-| [Capstone Game](/Assignments/Capstone/Capstone_Game.md)                        | A polished game. Can be an evolution of the 2D or 3D game.                 | Final                      | 30            |
-| **Total Points Possible**                                                      |                                                                            |                            | **150**       |
+| Assignment                                                                     | Description                                                                | Due Date                     | Points        |
+|:-------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------|---------------|
+| Attendance                                                                     | 3 unexcused absences. 0 points after that.                                 |                              | 14            |
+| Class Participation                                                            | Actively participate in class discussions                                  |                              | 14            |
+| [Game Review](/Assignments/Game_Review.md)                                     | Play one of the suggested games and review it!                             | 10/29                        | 10            |
+| [Tabletop Game](/Assignments/Tabletop.md)                                      | A playable prototype of a tabletop game                                    | 9/17                         | 10            |
+| [Tabletop Game Process Paper](/Assignments/TableTop_Process_Paper.md)          | Paper which documents process, execution and playtesting of tabletop game  | 9/24                         |  8            |
+| [Labs 1-4](/Assignments/Labs/)                                                 | 4 short coding assignments designed to build proficiency. 6 points each.   | 9/27, 10/11, 10/15 and 11/15 | 24            |
+| [2D Game Design Document](/Assignments/2D/2D_Concept.md)                       | A brief paper describing your concept for the 2D Game                      | 10/4                         | 10            |
+| [2D Game](/Assignments/2D/2DGame.md)                                           | A playable prototype of a 2D game                                          | 10/29                        | 20            |
+| [Capstone Concept Presentation](/Assignments/Capstone/Capstone_Concept.md)     | A brief Presentation describing your concept for the 2D Game               | 11/22 & 11/26                | 10            |
+| [Capstone Game](/Assignments/Capstone/Capstone_Game.md)                        | A polished game. Can be an evolution of the 2D game or something new.      | Final                        | 30            |
+| **Total Points Possible**                                                      |                                                                            |                              | **150**       |
 
 
-# Broad Overview
-1. What is a Game?
-2. Prototypes and Iterations
-3. Playtesting/Hello Godot 
-4. Getting Started in 2D 
-5. Coding Fundamentals
-6. Level and Environment Design
-7. Characters and Interactions
-8. User Interface
-9. 2D Game Playtests
-10. Intro to 3D
-11. 3D Environments
-12. Physics
-13. Advanced Topics
-14. Project Development
-15. Final Projects
-
+All assignments will be graded on the due date. Students are always allowed to revise and resubmit work **up until 12/3.**
 
 # **Course Outline**
 
@@ -60,28 +45,34 @@ The course is split into 3 distinct modules each with a unique project:
 - Week 4-10: 2D Game Design
 - Week 10-14: 3D Game Design/Final Project Development
 
+
 ## Week 1 - What is a Game?
 ### Friday 8/30
 - [CLASS NOTES](/Sessions/Class_1)
 - Syllabus Reviews
+- Professor John
 - Game Design Fundamentals
-- ASSIGN: Tabletop
+- ASSIGN: [Game Review](/Assignments/Game_Review.md)
+- ASSIGN: [Tabletop Game](/Assignments/Tabletop.md) 
 
 ### Tuesday 9/3
+- Game Design Fundamentals
 - Prototyping
+- Group Work
 
 ### Friday 9/6
-  - Playtesting
-  - Prototyping Tabletop Games: Balancing and Mechanics
-  - Reading: MDA and Magic Circle
-- MDA Framework
-- Systems, Loops and Balance
+- Playtesting
+- Group Work
 
 ## Week 2 - Prototyping and Iteration
 ### Tuesday 9/10
+- Prototyping Tabletop Games: Balancing and Mechanics
+- Reading: MDA and Magic Circle
+- MDA Framework
+- Systems, Loops and Balance
 
 ### Friday 9/13
-NO IN PERSON???
+- NO IN PERSON CLASS
 - Group work
 
 ## Week 3  Playtesting/Hello Godot
@@ -89,86 +80,85 @@ NO IN PERSON???
 - Playtesting
 - DUE: Tabletop Game
 
+---
+
 ### Friday 9/20
-- Git review
+- Git Init
 - Getting started with Godot
 - **Homework: [Lab 1](/Assignments/Labs/Lab_1.md)**
 
 ## Week 4 - Getting Started in 2D
 ### Tuesday 9/24
+- Hello Godot
 - Nodes and Scenes
+- DUE: Process Paper
 
 ### Friday 9/27
-- Nodes to Know
-- Important 2D Games
+- Genres in 2D
+- Project Brainstorming
+- [2D Game Brainstorming](/Resources/2D_Brainstorming.md)
 
 ## Week 5 - Coding Fundamentals
 ### Tuesday 10/1
 - [Coding Fundamentals](Resources/Coding_Fundamentals.md)
-  - Scripts and properties
-  - Variables
+- Scripts and properties
 - DUE: Lab 1
 - **Homework: [Lab 2](/Assignments/Labs/Lab_2.md)**
 - **Homework: [2D Game](/Assignments/2D/2DGame.md)**
 
 
-
 ### Friday 10/4
-- Functions
-- Arrays
+- Variables
 - [Conditionals, Input](https://www.youtube.com/watch?v=PyADIUsLobs)
 
-## Week 6 - Level and Environment Design
-### Tuesday 10/8
+## Week 6 – Input and Interactions
 
+### Tuesday 10/8
+- Git Branches
+- Area2D, Characterbody, Collisions
 ### Friday 10/11
-- [Area 2D - Puppy Race](/Sessions/PuppyRace)
-- [Demo Projects](/Resources/Demo Projects)
-- [Animated Sprites](/Sessions/AnimatedSprite)
 - Lab Review
+- Signals
+- Functions/Arrays
+- [Demo Projects](/Resources/Demo Projects)
 - DUE: Lab 2
 
 
-
-
-## Week 7
+## Week 7 - Level and Environment Design
 ### Tuesday 10/15
-- [Characters, Levels and Items](/Sessions/Characters_Levels_Items)
-- [2D Game Brainstorming](/Resources/2D_Brainstorming.md)
+- Assets
+- Tilemaps
 
 
 ### Friday 10/18
+- Sound
+- Common Patterns: Levels, Checkpoints and Respawns
 - DUE: 2D Game Concept
 - Git Collaboration
 - **Homework: [Lab 3](/Assignments/Labs/Lab_3.md)**
 
 
----
-## Week 8
+## Week 8 - UI
 
 ### Tuesday 10/22
-- Loading Scenes and Manipulating nodes
-- Respawning
-- Combat
-- Checkpoints
-
+- Control Nodes
+- Common Patterns – Items and Enemies
+- [Characters, Levels and Items](/Sessions/Characters_Levels_Items)
 
 ### Friday 10/25
-- project scaffolding
-- Sound
-- projectiles
-- branches and merging
-- working time
+- Project Development
 
 ## Week 9
 ### Tuesday 10/29
-- UI
-- Project settings
+- Playtesting
+- DUE: 2D Game
 
+---
+ 
 ### Friday 11/1
-- Project Development
+- Hello 3D
 
-## Week 10
+## Week 10 - Environments
 
 ### Tuesday 11/5
 NO CLASS: GO VOTE!
@@ -178,36 +168,41 @@ NO CLASS: GO VOTE!
 - Lighting and Camera Techniques in 3D Games
 
 ## Week 11
+*There will be no in person class this week, instead there will be a video recording.*
 ### Tuesday 11/12
+- Materials, Models
 NO IN PERSON
 
 ### Friday 11/15
 NO IN PERSON
+- Light, Sound
 - DUE: Lab 4
-- DUE: Optional 2D Reflection Paper
 
-## Week 12
+## Week 12 Review and Capstone Presentations
 ### Tuesday 11/18
-- Exporting
-- NPCs, Classes and Inheritance...
+- Review
+- Advanced Topics
+  - Exporting
+  - NPCs, Classes and Inheritance...
 
 
 ### Friday 11/22
-- Advanced 3D Game Mechanics: Multiplayer and Networking
+- Capstone presentations 
 
-## Week 13
+## Week 13 - Capstone Presentations
 ### Tuesday 11/26
-- Emerging Technologies in Game Design
+- Capstone presentations 
 
 ### Friday 11/29
 - NO CLASS: BUY A NEW TV?
 
-## Week 14
+## Week 14 - Review
 
 ### Tuesday 12/3
 - DUE: Final project playtest
 
 ### Friday 12/6
+- Review 
 
 ## Week 15 
 
@@ -215,8 +210,7 @@ NO IN PERSON
 - Preparing for the Game Industry: Portfolio and Career Paths
 
 ### Final
-- DUE: Final Project and Process Paper
-
+- DUE: Capstone Project
 
 
 
