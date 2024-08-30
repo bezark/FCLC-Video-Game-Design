@@ -1,4 +1,4 @@
- FCLC Introduction to Video Game Design Syllabus - Fall 2024
+# FCLC Introduction to Video Game Design Syllabus - Fall 2024
 
 **Course Code:** CISC 2540
 **Schedule:** Tuesdays and Fridays, 1:00 - 2:15 PM
