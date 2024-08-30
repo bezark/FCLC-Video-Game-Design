@@ -48,7 +48,8 @@ The course is split into 3 distinct modules each with a unique project:
 
 ## Week 1 - What is a Game?
 ### Friday 8/30
-- [CLASS NOTES](/Sessions/Class_1)
+- [FILL OUT THIS FORM](https://forms.gle/5X6TjT88Yg5m5XLs8) so you can tell me if I’m giving you too much homework!
+- [CLASS NOTES](/Modules/Class_1)
 - Syllabus Reviews
 - Professor John
 - Game Design Fundamentals
