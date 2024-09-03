@@ -1,7 +1,7 @@
 ## Outline
-- Revised Syllabus
-- Playtest
-- Feedback
+- 15 Housekeeping
+- 20 Lecture
+- 30 Workshop
 - Playtest
 - Feedback
 
@@ -10,6 +10,3 @@
 - Read [MDA Framework](https://github.com/bezark/FCLC-Video-Game-Design/blob/main/Resources/Readings/MDA.pdf) and prepare to discuss on Monday.
 
 
-### Monday 1/30
-- MDA Framework
-- Magic Circle

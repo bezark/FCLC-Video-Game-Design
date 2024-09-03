@@ -1,3 +1,6 @@
+# Top of Mind:
+- If you have never done any programming and would like to get a head start on learning to code, [this tutorial](https://www.youtube.com/watch?v=cx_yTggSENU) is a fantastic introduction to the fundamentals of coding using Godot
+
 # FCLC Introduction to Video Game Design Syllabus - Fall 2024
 
 **Course Code:** CISC 2540
