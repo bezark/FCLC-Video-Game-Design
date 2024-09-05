@@ -31,8 +31,8 @@ The  work of the class consists of the following:
 | Attendance                                                                     | 3 unexcused absences. 0 points after that.                                 |                              | 14            |
 | Class Participation                                                            | Actively participate in class discussions                                  |                              | 14            |
 | [Game Review](/Assignments/Game_Review.md)                                     | Play one of the suggested games and review it!                             | 10/29                        | 10            |
-| [Tabletop Game](/Assignments//Tabletop/Tabletop.md)                                      | A playable prototype of a tabletop game                                    | 9/17                         | 10            |
-| [Tabletop Game Process Paper](/Assignments/Tabletop/TableTop_Process_Paper.md)          | Paper which documents process, execution and playtesting of tabletop game  | 9/24                         |  8            |
+| [Tabletop Game](/Assignments//Tabletop/Tabletop.md)                            | A playable prototype of a tabletop game                                    | 9/17                         | 10            |
+| [Tabletop Game Process Paper](/Assignments/Tabletop/TableTop_Process_Paper.md) | Paper which documents process, execution and playtesting of tabletop game  | 9/24                         |  8            |
 | [Labs 1-4](/Assignments/Labs/)                                                 | 4 short coding assignments designed to build proficiency. 6 points each.   | 9/27, 10/11, 10/15 and 11/15 | 24            |
 | [2D Game Design Document](/Assignments/2D/2D_Concept.md)                       | A brief paper describing your concept for the 2D Game                      | 10/4                         | 10            |
 | [2D Game](/Assignments/2D/2DGame.md)                                           | A playable prototype of a 2D game                                          | 10/29                        | 20            |
@@ -52,9 +52,11 @@ The course is split into 3 distinct modules each with a unique project:
 
 
 ## Week 1 - What is a Game?
+
+- [Week 1 Slides](https://docs.google.com/presentation/d/1o1wn7qCIHvm6pyRf_S_lDHJCvFAZv06cnDHy8nc7OfY/edit?usp=sharing)
+
 ### Friday 8/30
 - [FILL OUT THIS FORM](https://forms.gle/5X6TjT88Yg5m5XLs8) so you can tell me if I’m giving you too much homework!
-- [CLASS NOTES](/Modules/Class_1)
 - Syllabus Reviews
 - Professor John
 - Game Design Fundamentals
@@ -67,8 +69,10 @@ The course is split into 3 distinct modules each with a unique project:
 - Group Work
 
 ### Friday 9/6
-- Playtesting
+- Housekeeping - 10
+- Internal Playtesting - 15 min
 - Group Work
+- Playtesting
 
 ## Week 2 - Prototyping and Iteration
 ### Tuesday 9/10
