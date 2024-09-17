@@ -1,7 +1,5 @@
 # Top of Mind:
-- If you have never done any programming and would like to get a head start on learning to code, [this tutorial](https://www.youtube.com/watch?v=cx_yTggSENU) is a fantastic introduction to the fundamentals of coding using Godot
-  - [The example project](https://github.com/godotneers/programming-video)
-- You can also always [book office hours!](https://bit.ly/bezark-office-hours)
+ - Please turn in your [Tabletop Game](/Assignments//Tabletop/Tabletop.md) and begin writing your [Tabletop Game Process Paper](/Assignments/Tabletop/TableTop_Process_Paper.md). Please submit everything via canvas.
 
 # FCLC Introduction to Video Game Design Syllabus - Fall 2024
 
@@ -89,12 +87,12 @@ The course is split into 3 distinct modules each with a unique project:
 ## Week 3  Playtesting/Hello Godot
 ### Tuesday 9/17
 - Playtesting
+- [Git Init](/Modules/2D/GitInit.md)
 - DUE: Tabletop Game
-
+- **Homework:** [Tabletop Game Process Paper](/Assignments/Tabletop/TableTop_Process_Paper.md)
 ---
 
 ### Friday 9/20
-- Git Init
 - Getting started with Godot
 - **Homework: [Lab 1](/Assignments/Labs/Lab_1.md)**
 - **Homework: [2D Game Concept](/Assignments/2D/2D_Concept.md)**
