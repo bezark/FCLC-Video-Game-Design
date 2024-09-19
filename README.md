@@ -28,7 +28,7 @@ The  work of the class consists of the following:
 | Assignment                                                                     | Description                                                                | Due Date                     | Points        |
 |:-------------------------------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------|---------------|
 | Attendance                                                                     | 3 unexcused absences. 0 points after that.                                 |                              | 14            |
-| Class Participation                                                            | Actively participate in class discussions and contribute to group projects.                               | 14            |
+| Class Participation                                                            | Actively participate in class discussions and contribute to group projects.|                              | 14            |
 | [Game Review](/Assignments/Game_Review.md)                                     | Play one of the suggested games and review it!                             | 10/29                        | 10            |
 | [Tabletop Game](/Assignments//Tabletop/Tabletop.md)                            | A playable prototype of a tabletop game                                    | 9/17                         | 10            |
 | [Tabletop Game Process Paper](/Assignments/Tabletop/TableTop_Process_Paper.md) | Paper which documents process, execution and playtesting of tabletop game  | 9/27                         |  8            |
