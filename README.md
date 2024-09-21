@@ -1,5 +1,5 @@
 # Top of Mind:
-- Please watch the video turotial on Gihub and Godot!
+- Please watch the [video turotial on Github and Godot!](https://www.youtube.com/watch?v=E1srposxZWo)
 - Please complete the anonymous [Collaboration Feedback Form](https://forms.gle/QBnY4zG3JcwLGzmT6). Doing so will provide invaluable feedback to your peers. It will also impact your participation grade.
 - Please turn in your [Tabletop Game](/Assignments//Tabletop/Tabletop.md) and begin writing your [Tabletop Game Process Paper](/Assignments/Tabletop/TableTop_Process_Paper.md). Please submit everything via canvas.
 
