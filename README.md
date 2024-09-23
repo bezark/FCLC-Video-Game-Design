@@ -134,13 +134,14 @@ WOMP
 ### Tuesday 10/8
 - Git Branches
 - Area2D, Characterbody, Collisions
+
 ### Friday 10/11
 - Lab Review
 - Signals
 - Functions/Arrays
 - [Demo Projects](/Resources/Demo Projects)
 - DUE: Lab 2
-
+- DUE: C2D Concept
 
 ## Week 7 - Level and Environment Design
 ### Tuesday 10/15
@@ -169,12 +170,11 @@ WOMP
 ## Week 9
 ### Tuesday 10/29
 - Playtesting
-- DUE: 2D Game
 
 ---
  
 ### Friday 11/1
-- Hello 3D
+- DUE: 2D Game
 
 ## Week 10 - Environments
 
@@ -182,6 +182,7 @@ WOMP
 NO CLASS: GO VOTE!
 
 ### Friday 11/8
+- Hello 3D
 - Introduction to 3D in Godot
 - Lighting and Camera Techniques in 3D Games
 
