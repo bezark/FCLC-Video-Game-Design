@@ -34,8 +34,8 @@ The  work of the class consists of the following:
 | [Tabletop Game](/Assignments//Tabletop/Tabletop.md)                            | A playable prototype of a tabletop game                                    | 9/17                         | 10            |
 | [Tabletop Game Process Paper](/Assignments/Tabletop/TableTop_Process_Paper.md) | Paper which documents process, execution and playtesting of tabletop game  | 9/27                         |  8            |
 | [Labs 1-4](/Assignments/Labs/)                                                 | 4 short coding assignments designed to build proficiency. 6 points each.   | 9/30, 10/11, 10/15 and 11/15 | 24            |
-| [2D Game Design Document](/Assignments/2D/2D_Concept.md)                       | A brief paper describing your concept for the 2D Game                      | 10/7                         | 10            |
-| [2D Game](/Assignments/2D/2DGame.md)                                           | A playable prototype of a 2D game                                          | 10/29                        | 20            |
+| [2D Game Design Document](/Assignments/2D/2D_Concept.md)                       | A brief paper describing your concept for the 2D Game                      | 10/11                        | 10            |
+| [2D Game](/Assignments/2D/2DGame.md)                                           | A playable prototype of a 2D game                                          | 11/1                         | 20            |
 | [Capstone Concept Presentation](/Assignments/Capstone/Capstone_Concept.md)     | A brief Presentation describing your concept for the 2D Game               | 11/22 & 11/26                | 10            |
 | [Capstone Game](/Assignments/Capstone/Capstone_Game.md)                        | A polished game. Can be an evolution of the 2D game or something new.      | Final                        | 30            |
 | **Total Points Possible**                                                      |                                                                            |                              | **150**       |
@@ -95,22 +95,24 @@ The course is split into 3 distinct modules each with a unique project:
 ---
 
 ### Friday 9/20
-- Playtesting
-- [Git Init](/Modules/2D/GitInit.md)
-- Please complete the anonymous [Collaboration Feedback Form](https://forms.gle/QBnY4zG3JcwLGzmT6). Doing so will provide invaluable feedback to your peers. It will also impact your participation grade.
-- Getting started with Godot
+WOMP
+- Please watch the [video turotial on Github and Godot!](https://www.youtube.com/watch?v=E1srposxZWo)
 - **Homework: [Lab 1](/Assignments/Labs/Lab_1.md)**
-- **Homework: [2D Game Concept](/Assignments/2D/2D_Concept.md)**
 
 
 ## Week 4 - Getting Started in 2D
 ### Tuesday 9/24
-- Hello Godot
-- Nodes and Scenes
+- Playtesting
+  - Please complete the anonymous [Collaboration Feedback Form](https://forms.gle/QBnY4zG3JcwLGzmT6). Doing so will provide invaluable feedback to your peers. It will also impact your participation grade.
+- Getting started with Godot
+- [Git Init](/Modules/2D/GitInit.md)
+- **Homework: [2D Game Concept](/Assignments/2D/2D_Concept.md)**
 
 ### Friday 9/27
 - Genres in 2D
 - Project Brainstorming
+- Hello Godot
+- Nodes and Scenes
 - [2D Game Brainstorming](/Resources/2D_Brainstorming.md)
 - DUE: Process Paper
 
