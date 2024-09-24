@@ -1,5 +1,5 @@
 # Top of Mind:
-- Please fill out this [2D Group Assignment Survey](https://forms.gle/tCmMaLaptu2LcJFf8).
+- Please fill out this [2D Group Assignment Survey](https://forms.gle/1tUirXSzuPavKiBEA).
 - Please watch the [video turotial on Github and Godot!](https://www.youtube.com/watch?v=E1srposxZWo)
 - Please complete the anonymous [Collaboration Feedback Form](https://forms.gle/QBnY4zG3JcwLGzmT6). Doing so will provide invaluable feedback to your peers. It will also impact your participation grade.
 
