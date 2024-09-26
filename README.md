@@ -113,11 +113,10 @@ WOMP
 - **Homework: [2D Game Concept](/Assignments/2D/2D_Concept.md)**
 
 ### Friday 9/27
-- Genres in 2D
-- Project Brainstorming
+- [Genres in 2D](https://www.gamedesigning.org/gaming/video-game-genres/#Breakdown-of-Game-Types)
+- [2D Game Brainstorming](/Resources/2D_Brainstorming.md)
 - Hello Godot
 - Nodes and Scenes
-- [2D Game Brainstorming](/Resources/2D_Brainstorming.md)
 - DUE: Process Paper
 
 ## Week 5 - Coding Fundamentals
