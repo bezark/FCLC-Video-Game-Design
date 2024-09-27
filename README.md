@@ -93,12 +93,14 @@ The course is split into 3 distinct modules each with a unique project:
 - [Git Init](/Modules/2D/GitInit.md)
 - DUE: Tabletop Game
 - **Homework:** [Tabletop Game Process Paper](/Assignments/Tabletop/TableTop_Process_Paper.md)
----
+
 
 ### Friday 9/20
 WOMP
 - Please watch the [video turotial on Github and Godot!](https://www.youtube.com/watch?v=E1srposxZWo)
 - **Homework: [Lab 1](/Assignments/Labs/Lab_1.md)**
+
+---
 
 
 ## Week 4 - Getting Started in 2D
@@ -108,7 +110,6 @@ WOMP
 
 - Getting started with Godot
 - [Git Init](/Modules/2D/GitInit.md)
-- **Homework: [2D Game Concept](/Assignments/2D/2D_Concept.md)**
 
 ### Friday 9/27
 - [Genres in 2D](https://www.gamedesigning.org/gaming/video-game-genres/#Breakdown-of-Game-Types)
@@ -116,6 +117,8 @@ WOMP
 - Hello Godot
 - Nodes and Scenes
 - DUE: Process Paper
+- **Homework: [2D Game Concept](/Assignments/2D/2D_Concept.md)**
+- **Homework: [2D Game](/Assignments/2D/2DGame.md)**
 
 ## Week 5 - Coding Fundamentals
 ### Tuesday 10/1
@@ -123,7 +126,7 @@ WOMP
 - Scripts and properties
 - DUE: Lab 1
 - **Homework: [Lab 2](/Assignments/Labs/Lab_2.md)**
-- **Homework: [2D Game](/Assignments/2D/2DGame.md)**
+
 
 
 ### Friday 10/4
