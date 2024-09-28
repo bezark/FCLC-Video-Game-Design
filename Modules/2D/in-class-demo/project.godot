@@ -10,15 +10,11 @@ config_version=5
 
 [application]
 
-config/name="Platformer Full Demo"
-run/main_scene="res://GAME.tscn"
-config/features=PackedStringArray("4.3", "Forward Plus")
-config/icon="res://Icon.png"
-
-[display]
-
-window/stretch/mode="viewport"
+config/name="In Class Demo"
+run/main_scene="res://level.tscn"
+config/features=PackedStringArray("4.3", "GL Compatibility")
 
 [rendering]
 
-textures/canvas_textures/default_texture_filter=0
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
