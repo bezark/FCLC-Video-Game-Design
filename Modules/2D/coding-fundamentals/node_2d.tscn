@@ -1,0 +1,23 @@
+[gd_scene load_steps=2 format=3 uid="uid://bxvctclgjddii"]
+
+[sub_resource type="GDScript" id="GDScript_cnse6"]
+script/source = "extends Node2D
+
+
+# Called when the node enters the scene tree for the first time.
+func _ready() -> void:
+	print(make_a_pizza())
+
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(delta: float) -> void:
+	pass
+
+
+func make_a_pizza() -> String:
+	var pizza = \"yummy\"
+	return pizza
+"
+
+[node name="Node2D" type="Node2D"]
+script = SubResource("GDScript_cnse6")

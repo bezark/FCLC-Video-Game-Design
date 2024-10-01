@@ -112,8 +112,6 @@ WOMP
 - [Git Init](/Modules/2D/GitInit.md)
 
 ### Friday 9/27
-- [Genres in 2D](https://www.gamedesigning.org/gaming/video-game-genres/#Breakdown-of-Game-Types)
-- [2D Game Brainstorming](/Resources/2D_Brainstorming.md)
 - Hello Godot
 - Nodes and Scenes
 - DUE: Process Paper
@@ -122,8 +120,11 @@ WOMP
 
 ## Week 5 - Coding Fundamentals
 ### Tuesday 10/1
+- [Genres in 2D](https://docs.google.com/presentation/d/1epZvoxa8-Eh5HPYWXpxj3MeUmB9lS5cF5hOpd9-qbqw/edit?usp=sharing)
+  - [2D Game Brainstorming](/Resources/2D_Brainstorming.md)
+
 - [Coding Fundamentals](Resources/Coding_Fundamentals.md)
-- Scripts and properties
+  - Scripts and properties
 - DUE: Lab 1
 - **Homework: [Lab 2](/Assignments/Labs/Lab_2.md)**
 

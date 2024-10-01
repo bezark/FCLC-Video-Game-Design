@@ -30,12 +30,13 @@ print(x)
 - Functions are sort of like factories or pizza restaurants.
   - They need instructions.
 ```gdscript
-func make_a_pizza():
+func make_a_pizza() -> pizza:
 	make dough
 	spin it around in the air for fun
 	add sauce
 	add cheese
 	cook it
+  return pizza
 ```
 
 Things that are **indented** are considered part of the function or the block.
@@ -75,6 +76,7 @@ You can make your own functions, or use functions built in to your environment.
     - executes when the node is loaded into the scene for the first time
   - _process()
     - executes once every frame.
+- The `->thing` is optional
 
 Nodes have properties and methods.
 
