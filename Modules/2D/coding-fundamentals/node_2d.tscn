@@ -1,4 +1,6 @@
-[gd_scene load_steps=2 format=3 uid="uid://bxvctclgjddii"]
+[gd_scene load_steps=3 format=3 uid="uid://bxvctclgjddii"]
+
+[ext_resource type="Texture2D" uid="uid://cikxvc3ei2edq" path="res://icon.svg" id="1_2v0ki"]
 
 [sub_resource type="GDScript" id="GDScript_cnse6"]
 script/source = "extends Node2D
@@ -13,7 +15,6 @@ func _ready() -> void:
 func _process(delta: float) -> void:
 	pass
 
-
 func make_a_pizza() -> String:
 	var pizza = \"yummy\"
 	return pizza
@@ -21,3 +22,7 @@ func make_a_pizza() -> String:
 
 [node name="Node2D" type="Node2D"]
 script = SubResource("GDScript_cnse6")
+
+[node name="Icon" type="Sprite2D" parent="."]
+position = Vector2(179, 88)
+texture = ExtResource("1_2v0ki")
