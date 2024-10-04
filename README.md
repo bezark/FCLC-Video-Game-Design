@@ -124,16 +124,16 @@ WOMP
 - [Genres in 2D](https://docs.google.com/presentation/d/1epZvoxa8-Eh5HPYWXpxj3MeUmB9lS5cF5hOpd9-qbqw/edit?usp=sharing)
   - [2D Game Brainstorming](/Resources/2D_Brainstorming.md)
 
-- [Coding Fundamentals](Resources/Coding_Fundamentals.md)
-  - Scripts and properties
 - DUE: Lab 1
-- **Homework: [Lab 2](/Assignments/Labs/Lab_2.md)**
 
 
 
 ### Friday 10/4
+- [Coding Fundamentals](Resources/Coding_Fundamentals.md)
+  - Scripts and properties
 - Variables
 - [Conditionals, Input](https://www.youtube.com/watch?v=PyADIUsLobs)
+- **Homework: [Lab 2](/Assignments/Labs/Lab_2.md)**
 
 ## Week 6 – Input and Interactions
 
@@ -147,7 +147,7 @@ WOMP
 - Functions/Arrays
 - [Demo Projects](/Resources/Demo Projects)
 - DUE: Lab 2
-- DUE: C2D Concept
+- DUE: 2D Concept
 
 ## Week 7 - Level and Environment Design
 ### Tuesday 10/15

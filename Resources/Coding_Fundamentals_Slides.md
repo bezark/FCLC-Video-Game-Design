@@ -40,21 +40,26 @@ print(x)
   - they *do* things.
 - Functions are sort of like factories or pizza restaurants.
   - They need instructions.
+
 ---
 
-#### For example:
+#### For example
+Here's a pizza making function:
 
-```
+```gdscript
 func make_a_pizza():
-	make dough
-	spin it around in the air for fun
-	add sauce
-	add cheese
-	cook it
+    make dough
+    spin it around in the air for fun
+    add sauce
+    add cheese
+    cook it
+
 ```
 this is a pizza making function
 
 ---
+
+### Indentation
 
 Things that are **indented** are considered part of the function or the block.
 
@@ -68,16 +73,17 @@ this stuff is not
 
 ---
 
+### Arguments
 The `( )` is used for adding arguments
 like extra instructions
 ```gdscript
 func make_a_pizza(toppings):
-	make dough
-	spin it around in the air for fun
-	add sauce
-	add cheese
-  add topping
-	cook it
+    make dough
+    spin it around in the air for fun
+    add sauce
+    add cheese
+    add topping
+    cook it
 
 make_a_pizza(peperoni)
 make_a_pizza(mushrooms)
