@@ -55,7 +55,6 @@ func make_a_pizza():
     cook it
 
 ```
-this is a pizza making function
 
 ---
 
@@ -98,15 +97,23 @@ You can make your own functions, or use functions built in to your environment.
 
 ### Coding in Godot
 - In Godot we use a language called gd-script.
-  - This is custom made for godot, but is very similar to python.
+   This is custom made for godot, but is very similar to python.
 - Scripts are attached to nodes.
-- There are 2 fundamental functions that all nodes have.
-  - _ready()
+
+#### There are 3 fundamental functions that all nodes have.
+   _ready()
     - executes when the node is loaded into the scene for the first time
-  - _process()
+
+
+   _process()
     - executes once every frame.
 
-Nodes have properties and methods.
+
+   _input()
+    - executes whenever you interact with the computer (like move the mouse, press a button etc.)
+
+
+Nodes have *properties* and *methods*.
 
 ---
 
