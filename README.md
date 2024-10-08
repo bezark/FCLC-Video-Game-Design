@@ -134,12 +134,16 @@ WOMP
 ## Week 6 – Input and Interactions
 
 ### Tuesday 10/8
+- Using Nodes together
+  - Area2D
+  - Camera2D
+  - Timer 
+- Signals
 - Git Branches
-- Area2D, Characterbody, Collisions
 
 ### Friday 10/11
 - Lab Review
-- Signals
+- Characterbody, Collisions
 - Functions/Arrays
 - [Demo Projects](/Resources/Demo Projects)
 - DUE: Lab 2

@@ -10,13 +10,12 @@ config_version=5
 
 [application]
 
-config/name="Getting Started"
-run/main_scene="res://Main.tscn"
+config/name="Using Nodes and Signals"
+run/main_scene="res://Area2DExample/area_2d_demo.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [rendering]
 
-textures/canvas_textures/default_texture_filter=0
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
