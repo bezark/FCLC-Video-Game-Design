@@ -1,14 +1,10 @@
-[gd_scene load_steps=6 format=3 uid="uid://cel8dnrqablk1"]
+[gd_scene load_steps=4 format=3 uid="uid://cel8dnrqablk1"]
 
-[ext_resource type="Texture2D" uid="uid://c803eqijh4hh2" path="res://icon.svg" id="1_berqb"]
 [ext_resource type="Script" path="res://Area2DExample/area_2d.gd" id="1_sdcad"]
-[ext_resource type="Script" path="res://Area2DExample/simple_player.gd" id="2_cfi4s"]
+[ext_resource type="PackedScene" uid="uid://m7fbogrf877j" path="res://advanced_player.tscn" id="2_31u8d"]
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_w8mtp"]
-size = Vector2(284, 393)
-
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_exwur"]
-size = Vector2(125, 131)
+[sub_resource type="CircleShape2D" id="CircleShape2D_4waag"]
+radius = 270.913
 
 [node name="Area2DDemo" type="Node2D"]
 
@@ -16,17 +12,9 @@ size = Vector2(125, 131)
 script = ExtResource("1_sdcad")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
-position = Vector2(611, 167.5)
-shape = SubResource("RectangleShape2D_w8mtp")
+position = Vector2(589, 53)
+shape = SubResource("CircleShape2D_4waag")
 
-[node name="SimplePlayer" type="Sprite2D" parent="."]
-texture = ExtResource("1_berqb")
-script = ExtResource("2_cfi4s")
-
-[node name="Area2D" type="Area2D" parent="SimplePlayer"]
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="SimplePlayer/Area2D"]
-position = Vector2(-0.5, 0.5)
-shape = SubResource("RectangleShape2D_exwur")
+[node name="SimplePlayer" parent="." instance=ExtResource("2_31u8d")]
 
 [connection signal="area_entered" from="Area2D" to="Area2D" method="_on_area_entered"]
