@@ -145,6 +145,7 @@ WOMP
 - Lab Review
 - Characterbody, Collisions
 - Functions/Arrays
+- Area2D Review
 - [Demo Projects](/Resources/Demo Projects)
 - DUE: Lab 2
 - DUE: 2D Concept
