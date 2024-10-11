@@ -144,9 +144,10 @@ WOMP
 ### Friday 10/11
 - Lab Review
 - Characterbody, Collisions
-- Functions/Arrays
+- Functions/Signals
 - Area2D Review
-- [Demo Projects](/Resources/Demo Projects)
+- Sprite Sheets
+
 - DUE: Lab 2
 - DUE: 2D Concept
 
