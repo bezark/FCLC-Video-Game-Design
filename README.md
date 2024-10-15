@@ -155,6 +155,7 @@ WOMP
 ### Tuesday 10/15
 - Assets
 - Tilemaps
+- [2D Components](/Modules/2D/2D_Components/)
 - Area2D Review
 - Sprite Sheets
 
