@@ -1,7 +1,9 @@
-[gd_scene load_steps=4 format=3 uid="uid://bq1su3sdmgjcb"]
+[gd_scene load_steps=6 format=3 uid="uid://bq1su3sdmgjcb"]
 
 [ext_resource type="PackedScene" uid="uid://ishqo8c65him" path="res://player.tscn" id="1_1g3ob"]
 [ext_resource type="PackedScene" uid="uid://dlqgqjqlyw827" path="res://checkpoint.tscn" id="2_cwbjg"]
+[ext_resource type="PackedScene" uid="uid://d3lcw6etgdpav" path="res://home_base.tscn" id="3_4trhe"]
+[ext_resource type="PackedScene" uid="uid://v75cpkvnhxnn" path="res://levels/level2.tscn" id="4_6yrvp"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_b03om"]
 size = Vector2(117, 118)
@@ -36,3 +38,8 @@ offset_bottom = 118.0
 
 [node name="Checkpoint" parent="." instance=ExtResource("2_cwbjg")]
 position = Vector2(1106, 494)
+scene_to_load = ExtResource("3_4trhe")
+
+[node name="Checkpoint2" parent="." instance=ExtResource("2_cwbjg")]
+position = Vector2(894, 84)
+scene_to_load = ExtResource("4_6yrvp")

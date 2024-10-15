@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="ChangingScenesExample"
+run/main_scene="res://levels/level1.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 

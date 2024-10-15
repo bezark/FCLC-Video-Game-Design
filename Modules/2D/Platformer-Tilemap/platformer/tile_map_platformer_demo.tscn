@@ -175,11 +175,13 @@ sources/0 = SubResource("TileSetAtlasSource_nf1wn")
 
 [node name="Parallax2D" type="Parallax2D" parent="Level"]
 scroll_scale = Vector2(0.05, 1)
-repeat_size = Vector2(100, 0)
-repeat_times = 100
+scroll_offset = Vector2(506, 31)
+repeat_size = Vector2(872, 0)
+repeat_times = 2
 
 [node name="Sprite2D" type="Sprite2D" parent="Level/Parallax2D"]
-scale = Vector2(2, 2)
+position = Vector2(388, 135.5)
+scale = Vector2(6.92188, 4.75781)
 texture = ExtResource("1_2j3hp")
 
 [node name="TileMapLayer" type="TileMapLayer" parent="Level"]
