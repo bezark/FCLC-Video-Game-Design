@@ -10,8 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Timer Demo"
-run/main_scene="res://basic_timer.tscn"
+config/name="ChangingScenesExample"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 

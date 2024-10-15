@@ -1,0 +1,34 @@
+[gd_scene load_steps=6 format=3 uid="uid://v75cpkvnhxnn"]
+
+[ext_resource type="PackedScene" uid="uid://ishqo8c65him" path="res://player.tscn" id="1_8dycp"]
+[ext_resource type="PackedScene" uid="uid://dlqgqjqlyw827" path="res://checkpoint.tscn" id="2_5goib"]
+[ext_resource type="PackedScene" uid="uid://d3lcw6etgdpav" path="res://home_base.tscn" id="3_iuou6"]
+[ext_resource type="PackedScene" uid="uid://bq1su3sdmgjcb" path="res://levels/level1.tscn" id="4_s4y0p"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_b03om"]
+size = Vector2(117, 118)
+
+[node name="TopDownMovement" type="Node2D"]
+
+[node name="TopDownCharacter" parent="." instance=ExtResource("1_8dycp")]
+
+[node name="Level" type="Node2D" parent="."]
+
+[node name="StaticBody2D2" type="StaticBody2D" parent="Level"]
+position = Vector2(135, 405)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Level/StaticBody2D2"]
+position = Vector2(59.5, 59)
+shape = SubResource("RectangleShape2D_b03om")
+
+[node name="ColorRect" type="ColorRect" parent="Level/StaticBody2D2"]
+offset_right = 118.0
+offset_bottom = 118.0
+
+[node name="HomeBaseCheckPoint" parent="." instance=ExtResource("2_5goib")]
+position = Vector2(1028, 488)
+scene_to_load = ExtResource("3_iuou6")
+
+[node name="level1Checkpoint" parent="." instance=ExtResource("2_5goib")]
+position = Vector2(1018, 132)
+scene_to_load = ExtResource("4_s4y0p")

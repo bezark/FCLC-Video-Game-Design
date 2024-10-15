@@ -155,6 +155,8 @@ WOMP
 ### Tuesday 10/15
 - Assets
 - Tilemaps
+- Area2D Review
+- Sprite Sheets
 
 
 ### Friday 10/18
