@@ -1,6 +1,11 @@
 # Top of Mind:
 - [Tutorial on Conditionals and Input](https://www.youtube.com/watch?v=PyADIUsLobs)
 
+- Things to cover next class:
+- Better paralx (autoscroll)
+- Water tiles animated
+- Where to find other assets
+
 # FCLC Introduction to Video Game Design Syllabus - Fall 2024
 
 **Course Code:** CISC 2540
