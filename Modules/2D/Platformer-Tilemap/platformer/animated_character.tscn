@@ -1,8 +1,9 @@
-[gd_scene load_steps=29 format=3 uid="uid://c6crv0w8wplqg"]
+[gd_scene load_steps=31 format=3 uid="uid://c6crv0w8wplqg"]
 
 [ext_resource type="Script" path="res://platformer/character_body_2d.gd" id="1_82agy"]
 [ext_resource type="Texture2D" uid="uid://i45eb0760gtj" path="res://Assets/Virtual Guy/Idle (32x32).png" id="1_x7kjt"]
 [ext_resource type="Texture2D" uid="uid://7qyvotnp6qy4" path="res://Assets/Virtual Guy/Run (32x32).png" id="3_hg654"]
+[ext_resource type="Texture2D" uid="uid://iwdufnjndnm8" path="res://Assets/Virtual Guy/Jump (32x32).png" id="3_xvulp"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_i8jno"]
 radius = 12.0
@@ -51,6 +52,10 @@ region = Rect2(288, 0, 32, 32)
 [sub_resource type="AtlasTexture" id="AtlasTexture_5cdj1"]
 atlas = ExtResource("1_x7kjt")
 region = Rect2(320, 0, 32, 32)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_xjf1i"]
+atlas = ExtResource("3_xvulp")
+region = Rect2(0, 0, 32, 32)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_grm0d"]
 atlas = ExtResource("3_hg654")
@@ -142,6 +147,14 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
+"texture": SubResource("AtlasTexture_xjf1i")
+}],
+"loop": true,
+"name": &"jump",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
 "texture": SubResource("AtlasTexture_grm0d")
 }, {
 "duration": 1.0,
@@ -191,8 +204,8 @@ shape = SubResource("CapsuleShape2D_i8jno")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_l0ghv")
+animation = &"jump"
 autoplay = "default"
-frame_progress = 0.411955
 
 [node name="Camera2D" type="Camera2D" parent="."]
 zoom = Vector2(5, 5)
