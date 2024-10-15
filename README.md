@@ -158,13 +158,13 @@ WOMP
 - Area2D Review
 - Sprite Sheets
 
+- Git Collaboration
+- **Homework: [Lab 3](/Assignments/Labs/Lab_3.md)**
 
 ### Friday 10/18
 - Sound
 - Common Patterns: Levels, Checkpoints and Respawns
 - DUE: 2D Game Concept
-- Git Collaboration
-- **Homework: [Lab 3](/Assignments/Labs/Lab_3.md)**
 
 
 ## Week 8 - UI
