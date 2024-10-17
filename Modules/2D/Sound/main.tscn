@@ -29,7 +29,8 @@ texture = ExtResource("2_q24wf")
 stream = ExtResource("3_cplck")
 
 [node name="Music" type="AudioStreamPlayer2D" parent="CharacterBody2D"]
-position = Vector2(-18, -26)
+position = Vector2(667, 103)
+scale = Vector2(1, 1)
 stream = ExtResource("4_jrgdm")
 volume_db = -8.0
 autoplay = true
@@ -52,7 +53,7 @@ offset_bottom = 128.0
 position = Vector2(0, 366)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D2"]
-position = Vector2(225, 63)
+position = Vector2(1078, 54)
 shape = SubResource("RectangleShape2D_nnpyx")
 
 [node name="ColorRect" type="ColorRect" parent="StaticBody2D2"]
@@ -62,13 +63,13 @@ offset_right = 1468.0
 offset_bottom = 122.0
 
 [node name="Fruit" parent="." instance=ExtResource("3_ww4ir")]
-position = Vector2(480, 297)
+position = Vector2(408, 292)
 scale = Vector2(3.71875, 3.71875)
 
 [node name="Fruit2" parent="." instance=ExtResource("3_ww4ir")]
-position = Vector2(239, 268)
+position = Vector2(240, 294)
 scale = Vector2(3.71875, 3.71875)
 
 [node name="Fruit3" parent="." instance=ExtResource("3_ww4ir")]
-position = Vector2(498, 213)
+position = Vector2(665, 101)
 scale = Vector2(3.71875, 3.71875)
