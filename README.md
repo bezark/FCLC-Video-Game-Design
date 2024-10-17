@@ -1,9 +1,6 @@
 # Top of Mind:
 - [Tutorial on Conditionals and Input](https://www.youtube.com/watch?v=PyADIUsLobs)
 
-- Things to cover next class:
-- Better paralx (autoscroll)
-- Water tiles animated
 - Where to find other assets
   - [Kraftpix](https://craftpix.net/freebies/?utm_campaign=Website&utm_source=gamedev.net&utm_medium=10-free-2d-game-asset-sites)
   - [Kenny](https://kenney.nl/assets)
@@ -174,6 +171,14 @@ WOMP
 - **Homework: [Lab 3](/Assignments/Labs/Lab_3.md)**
 
 ### Friday 10/18
+- Better paralx (autoscroll)
+- Water tiles animated
+- Where to find other assets
+  - [Kraftpix](https://craftpix.net/freebies/?utm_campaign=Website&utm_source=gamedev.net&utm_medium=10-free-2d-game-asset-sites)
+  - [Kenny](https://kenney.nl/assets)
+  - [Noun Project](https://thenounproject.com/)
+  - [Dotown](https://dotown.maeda-design-room.net/)
+  - [Open Game Art](https://opengameart.org/)
 - Sound
 - Common Patterns: Levels, Checkpoints and Respawns
 - DUE: 2D Game Concept
