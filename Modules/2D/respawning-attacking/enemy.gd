@@ -27,7 +27,7 @@ func _physics_process(delta: float) -> void:
 
 	
 	velocity.x = SPEED
-	
+	# will either run to the left or the right
 	if move_left:
 		velocity.x = -velocity.x
 
@@ -47,22 +47,15 @@ func spawn():
 	position = starting_position
 	
 
-
-
 func _on_area_2d_body_entered(body: Node2D) -> void:
 	if body.name== "Player" :
 		can_attack = true
 		player_in_range = true
 		attack_target = body
 
-func _on_player_respawned() -> void:
-	spawn()
-
-
-func _on_attack_cooldown_timeout() -> void:
-	can_attack = true
-
-
 func _on_area_2d_body_exited(body: Node2D) -> void:
 	if body.name== "Player" :
 		player_in_range = false
+
+func _on_attack_cooldown_timeout() -> void:
+	can_attack = true
