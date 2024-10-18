@@ -28,14 +28,6 @@ texture = ExtResource("2_q24wf")
 [node name="Jump" type="AudioStreamPlayer2D" parent="CharacterBody2D"]
 stream = ExtResource("3_cplck")
 
-[node name="Music" type="AudioStreamPlayer2D" parent="CharacterBody2D"]
-position = Vector2(667, 103)
-scale = Vector2(1, 1)
-stream = ExtResource("4_jrgdm")
-volume_db = -8.0
-autoplay = true
-panning_strength = 2.62
-
 [node name="StaticBody2D" type="StaticBody2D" parent="."]
 position = Vector2(0, 366)
 
@@ -73,3 +65,11 @@ scale = Vector2(3.71875, 3.71875)
 [node name="Fruit3" parent="." instance=ExtResource("3_ww4ir")]
 position = Vector2(665, 101)
 scale = Vector2(3.71875, 3.71875)
+
+[node name="Music" type="AudioStreamPlayer2D" parent="Fruit3"]
+position = Vector2(0.537811, 0.537815)
+scale = Vector2(0.268908, 0.268908)
+stream = ExtResource("4_jrgdm")
+volume_db = -8.0
+autoplay = true
+panning_strength = 2.62

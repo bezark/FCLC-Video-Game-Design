@@ -13,7 +13,7 @@
 scroll_scale = Vector2(0.1, 1)
 repeat_size = Vector2(256, 0)
 autoscroll = Vector2(-1, 0)
-repeat_times = 10
+repeat_times = 7
 
 [node name="Far" type="Sprite2D" parent="Background"]
 texture = ExtResource("1_yiojf")
@@ -22,7 +22,7 @@ texture = ExtResource("1_yiojf")
 scroll_scale = Vector2(0.5, 1)
 repeat_size = Vector2(256, 0)
 autoscroll = Vector2(5, 0)
-repeat_times = 10
+repeat_times = 7
 
 [node name="Sand" type="Sprite2D" parent="Mid"]
 texture = ExtResource("2_4roo1")
@@ -31,7 +31,7 @@ texture = ExtResource("2_4roo1")
 scroll_scale = Vector2(0.7, 1)
 repeat_size = Vector2(256, 0)
 autoscroll = Vector2(10, 0)
-repeat_times = 10
+repeat_times = 7
 
 [node name="Foregound-merged" type="Sprite2D" parent="Foreground"]
 texture = ExtResource("3_6fyki")
