@@ -1,8 +1,10 @@
-[gd_scene load_steps=5 format=3 uid="uid://ddroq2depcpis"]
+[gd_scene load_steps=7 format=3 uid="uid://ddroq2depcpis"]
 
 [ext_resource type="PackedScene" uid="uid://dqhhcfchvx36i" path="res://Platform.tscn" id="1_wttq3"]
 [ext_resource type="Script" path="res://killbox.gd" id="2_8d2t1"]
 [ext_resource type="PackedScene" uid="uid://c7c1rk3hn231t" path="res://player.tscn" id="3_drvqu"]
+[ext_resource type="PackedScene" uid="uid://ba3skd3ynab02" path="res://enemy.tscn" id="4_3andg"]
+[ext_resource type="Script" path="res://enemies.gd" id="5_j7xso"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_wk5rf"]
 size = Vector2(3395, 386.5)
@@ -30,5 +32,11 @@ shape = SubResource("RectangleShape2D_wk5rf")
 
 [node name="Player" parent="." instance=ExtResource("3_drvqu")]
 position = Vector2(70, -122)
+
+[node name="Enemy" parent="." instance=ExtResource("4_3andg")]
+position = Vector2(1665, -70)
+
+[node name="Enemies" type="Node" parent="."]
+script = ExtResource("5_j7xso")
 
 [connection signal="body_entered" from="Killbox" to="Killbox" method="_on_body_entered"]

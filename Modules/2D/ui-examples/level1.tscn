@@ -35,7 +35,6 @@ position = Vector2(519, 214)
 position = Vector2(592, 371)
 
 [node name="Sign" type="Area2D" parent="."]
-visible = false
 position = Vector2(217, 154)
 script = ExtResource("3_0xrel")
 
