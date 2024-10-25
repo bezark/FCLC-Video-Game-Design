@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="animated-sprite-and-tiles"
-run/main_scene="res://platformer/tile_map_platformer_demo.tscn"
+run/main_scene="res://level.tscn"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 

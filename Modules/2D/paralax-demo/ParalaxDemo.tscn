@@ -5,7 +5,7 @@
 [ext_resource type="Texture2D" uid="uid://c2ibr8hxnlbe3" path="res://Legacy_Underwater/foregound-merged.png" id="3_6fyki"]
 [ext_resource type="Texture2D" uid="uid://b2e8d8orpvhqw" path="res://Legacy_Underwater/foreground-1.png" id="4_l4swx"]
 [ext_resource type="Texture2D" uid="uid://ccq73xvnaav7g" path="res://Legacy_Underwater/foreground-2.png" id="5_6hhnk"]
-[ext_resource type="Script" path="res://camera_2d.gd" id="6_kph7v"]
+[ext_resource type="PackedScene" uid="uid://cj317uaaymaq0" path="res://moving_camera_2d.tscn" id="6_8ikr0"]
 
 [node name="Node2D" type="Node2D"]
 
@@ -45,8 +45,4 @@ texture = ExtResource("4_l4swx")
 visible = false
 texture = ExtResource("5_6hhnk")
 
-[node name="Camera2D" type="Camera2D" parent="."]
-position = Vector2(149, 4)
-zoom = Vector2(4, 4)
-script = ExtResource("6_kph7v")
-speed = 100
+[node name="Camera2D" parent="." instance=ExtResource("6_8ikr0")]

@@ -66,10 +66,7 @@ scale = Vector2(3.71875, 3.71875)
 position = Vector2(665, 101)
 scale = Vector2(3.71875, 3.71875)
 
-[node name="Music" type="AudioStreamPlayer2D" parent="Fruit3"]
-position = Vector2(0.537811, 0.537815)
-scale = Vector2(0.268908, 0.268908)
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
 stream = ExtResource("4_jrgdm")
-volume_db = -8.0
+volume_db = -15.898
 autoplay = true
-panning_strength = 2.62

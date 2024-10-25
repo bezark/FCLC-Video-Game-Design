@@ -1,4 +1,5 @@
 # Top of Mind:
+- [Changing Scenes, Tilemap and Paralx Review](https://youtube.com/live/O1qdmCjXyMM)
 - [Instancing and UI Demos](https://youtube.com/live/hFXZkFinWXU)
 - **2D Game is now due 11/4**
 - Where to find other assets
