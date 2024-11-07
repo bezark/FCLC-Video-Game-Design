@@ -21,7 +21,7 @@ Design and create a 2D game using Godot 4 that can be played and completed withi
 - **2D Game Prototype** - Submit a digital version of your 2D game developed in Godot 4.
 
 #### Grading Criteria: (Total 20 Points)
-- **Meeting stated design goals (0-4):** Does the game have a clear objective, perspective(character/world/universe), ending condition and emptional impact?
+- **Meeting stated design goals (0-4):** Does the game have a clear objective, perspective(character/world/universe), ending condition and emotional impact?
 - **Tutorial (0-4):** Does the game itself teach players how to play it? When conducting in class playtests, you will not be allowed to explain how to play the game, so make sure players can learn how to play the game just by interacting with it.
 - **Individual Coding Contribution (0-4):** Each member of the group should author at least one scene that has a script that contributes to the gameplay. This should be evident on github. Students will be individually graded for this section.
 - **Robust(0-4):** Can the game run from beginning to end without crashing?
