@@ -209,9 +209,11 @@ WOMP
 NO CLASS: GO VOTE!
 
 ### Friday 11/8
+- Capstone Brainstorming
+
 - Hello 3D
-- Introduction to 3D in Godot
-- Lighting and Camera Techniques in 3D Games
+  - Introduction to 3D in Godot
+  - Lighting and Camera Techniques in 3D Games
 
 ## Week 11
 *There will be no in person class this week, instead there will be a video recording.*
