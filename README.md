@@ -3,7 +3,7 @@ Hello folks! As we approach the end of the semester, here are some important rem
 
 ## Intro to 3D and Lab 4
 
-In lieu of in person class this week, here are the video recordings introducing you to 3D in Godot. Please watch them and then complete [Lab 4](/Assignments/Labs/Lab_4).
+In lieu of in person class this week, here are the video recordings introducing you to 3D in Godot. Please watch them and then complete [Lab 4](/Assignments/Labs/Lab_4.md).
 - [Hello 3D part 1](https://www.youtube.com/live/YKmOb1VFDsQ?si=w9XixyqFKSPfQ-Hu)
 - [Hello 3D part 2](https://www.youtube.com/live/fMbfi5HR-uc?si=AUAM_GFpERKfrEPZ)
 - [Intro to 3D and Making a First Person Camera Controller](https://www.youtube.com/live/-yfEusTUQjY?si=mnYTAPJMNdZ5Eycy)
