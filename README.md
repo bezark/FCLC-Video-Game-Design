@@ -1,5 +1,5 @@
 # Top of Mind:
-Hello folks! 
+Hello folks! As we approach the end of the semester, here are some important reminders: 
 
 ## Intro to 3D and Lab 4
 
