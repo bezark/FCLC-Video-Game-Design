@@ -2,7 +2,7 @@
 Hello folks! Here are the video recordings introducing you to 3D in Godot. Please watch them and then complete Lab 4.
 - [Hello 3D part 1](https://www.youtube.com/live/YKmOb1VFDsQ?si=w9XixyqFKSPfQ-Hu)
 - [Hello 3D part 2](https://www.youtube.com/live/fMbfi5HR-uc?si=AUAM_GFpERKfrEPZ)
-- [Hello 3D Supplamental](https://www.youtube.com/live/-yfEusTUQjY?si=mnYTAPJMNdZ5Eycy)
+- [Intro to 3D and Making a First Person Camera Controller](https://www.youtube.com/live/-yfEusTUQjY?si=mnYTAPJMNdZ5Eycy)
 
 
 
