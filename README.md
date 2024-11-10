@@ -9,7 +9,7 @@ In lieu of in person class this week, here are the video recordings introducing 
 - [Intro to 3D and Making a First Person Camera Controller](https://www.youtube.com/live/-yfEusTUQjY?si=mnYTAPJMNdZ5Eycy)
 
 ## Capstone Project
-Please begin thinking about your [Capstone Game](/Assignments/Capstone/Capstone_Game)! The [Capstone Concept Presentations](/Assignments/Capstone/Capstone_Concept) will begin on 11/22 and you all must be ready to give a 10 minute presentation on your capstone game at that time. As a reminder, **capstone groups are self selected** so please begin reaching out to your classmates if you wish to work in a group. I will open a discussion on blackboard where you can try to connect with fellow class mates if you are looking for collaborators.
+Please begin thinking about your [Capstone Game](/Assignments/Capstone/Capstone_Game.md)! The [Capstone Concept Presentations](/Assignments/Capstone/Capstone_Concept.md) will begin on 11/22 and you all must be ready to give a 10 minute presentation on your capstone game at that time. As a reminder, **capstone groups are self selected** so please begin reaching out to your classmates if you wish to work in a group. I will open a discussion on blackboard where you can try to connect with fellow class mates if you are looking for collaborators.
 
 
 # FCLC Introduction to Video Game Design Syllabus - Fall 2024
