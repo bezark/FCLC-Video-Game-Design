@@ -1,4 +1,7 @@
 # Top of Mind:
+
+- [Capstone Presentation Groups](https://www.tldraw.com/r/t3jLWOCnJqGoJs_kzQEtz?d=v-277.-926.1132.2079.page) 
+
 Hello folks! As we approach the end of the semester, here are some important reminders: 
 
 ## Intro to 3D and Lab 4
