@@ -32,7 +32,7 @@ func _physics_process(delta):
 	
 func _input(event):
 	if event is InputEventMouseMotion:
-		rotate_y(deg_to_rad(event.relative.x))
+		rotate_y(deg_to_rad(-event.relative.x))
 		$Pivot.rotate_x(deg_to_rad(-event.relative.y))
 		$Pivot.rotation_degrees.x = clampf($Pivot.rotation_degrees.x, -90, 45)
 		print($Pivot.rotation_degrees)
