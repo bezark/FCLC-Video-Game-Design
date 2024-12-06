@@ -4,7 +4,7 @@
 
 ## Capstone Project
 - Please continue working on your [Capstone Game](/Assignments/Capstone/Capstone_Game.md)! We will be conducting the in class playtest on **Friday 12/6**!
-- In order to get full credit for the assignment please submit it to the [FCLC Capston Game Jam](https://itch.io/jam/fclc-video-game-design-jam-2024) 
+- In order to get full credit for the assignment please submit it to the [FCLC Capstone Game Jam](https://itch.io/jam/fclc-video-game-design-jam-2024) 
 
 # FCLC Introduction to Video Game Design Syllabus - Fall 2024
 
