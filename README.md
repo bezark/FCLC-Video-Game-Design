@@ -1,10 +1,17 @@
 # Top of Mind:
-
-**The [Game Review](/Assignments/Game_Review.md) assingment is now EXTRA CREDIT! For those who submit it you will be awarded up to 8 Points of extra credit!**
+- [Careers in Game Design](https://docs.google.com/presentation/d/1i-RZGlzN65DgH-2sKYvK31pYVswlGjqj9AYbDTiazo0/edit?usp=sharing)
 
 ## Capstone Project
-- Please continue working on your [Capstone Game](/Assignments/Capstone/Capstone_Game.md)! We will be conducting the in class playtest on **Friday 12/6**!
+- The Capstone Game is due FRIDAY 12/13
 - In order to get full credit for the assignment please submit it to the [FCLC Capstone Game Jam](https://itch.io/jam/fclc-video-game-design-jam-2024) 
+
+## Outstanding Work
+- Please complete any missing assignments by FRIDAY 12/13
+- **The [Game Review](/Assignments/Game_Review.md) assingment is now EXTRA CREDIT! For those who submit it you will be awarded up to 8 Points of extra credit!**
+- [BOOK OFFICE HOURS IF YOU NEED HELP!](https://bit.ly/bezark-office-hours)
+
+
+# THANK YOU FOR AN AMAZING SEMESTER!!!
 
 # FCLC Introduction to Video Game Design Syllabus - Fall 2024
 
